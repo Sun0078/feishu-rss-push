@@ -1,17 +1,46 @@
-name:全品类资讯飞书推送
+name: 全品类资讯飞书推送
+
+# 触发条件
 on:
+  # 定时触发：每10分钟执行一次（UTC时间，比北京时间晚8小时）
   schedule:
-    cron: '*/30 * * * *'
+    - cron: '*/10 * * * *'
+  # 手动触发（可在Actions页面一键运行，用于测试）
   workflow_dispatch:
 
+# 全局环境变量（所有步骤都能访问）
+env:
+  # 飞书Webhook地址，从下面第二步的Secrets中读取
+  FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+
+# 执行任务
 jobs:
   run-task:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: 配置Python
+      # 1. 拉取你仓库里的代码
+      - name: 拉取仓库代码
+        uses: actions/checkout@v4
+
+      # 2. 配置Python环境（指定稳定版本3.11）
+      - name: 配置Python环境
         uses: actions/setup-python@v5
-      - name: 安装依赖
+        with:
+          python-version: '3.11'
+          cache: 'pip' # 缓存pip依赖，加快后续运行速度
+
+      # 3. 安装Python依赖
+      - name: 安装依赖包
         run: pip install requests
+
+      # 4. 运行你的监控脚本
       - name: 执行全网资讯监控
         run: python monitor.py
+
+      # 5. 打印运行日志（方便排查问题）
+      - name: 输出运行日志
+        if: always() # 即使前面步骤失败也执行
+        run: |
+          echo "工作流执行完成"
+          echo "当前时间（UTC）：$(date)"
+          echo "当前时间（北京时间）：$(date -d '+8 hours')"
