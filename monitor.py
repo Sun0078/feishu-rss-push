@@ -3,7 +3,7 @@ import hashlib
 from datetime import datetime
 
 # ========== 唯一修改处：粘贴你的飞书机器人链接 ==========
-FEISHU_WEBHOOK = "你的飞书webhook链接"
+FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee3-8a7b-49a49ee7bd31"
 # ========================================================
 
 # 【最终定稿全部站点 无重复 全覆盖】
