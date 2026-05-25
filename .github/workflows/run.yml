@@ -1,34 +1,17 @@
-# 工作流名称（冒号后必须加空格！）
-name: 全品类资讯飞书推送
-
-# 触发条件
+name:全品类资讯飞书推送
 on:
-  # 定时触发：每10分钟执行一次（UTC时间）
   schedule:
-    - cron: '*/10 * * * *'
-  # 手动触发（可以在仓库的 Actions 页面手动点击运行）
+    cron: '*/30 * * * *'
   workflow_dispatch:
 
-# 任务定义
 jobs:
   run-task:
-    # 运行环境：最新版 Ubuntu
     runs-on: ubuntu-latest
     steps:
-      # 步骤1：拉取仓库代码
-      - name: 拉取代码
-        uses: actions/checkout@v4
-
-      # 步骤2：配置 Python 环境
-      - name: 配置 Python
+      - uses: actions/checkout@v4
+      - name: 配置Python
         uses: actions/setup-python@v5
-        with:
-          python-version: '3.x' # 建议指定版本，比如 3.11
-
-      # 步骤3：安装依赖
       - name: 安装依赖
         run: pip install requests
-
-      # 步骤4：运行你的监控脚本
       - name: 执行全网资讯监控
         run: python monitor.py
