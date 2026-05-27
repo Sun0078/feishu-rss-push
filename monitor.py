@@ -9,33 +9,47 @@ FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee
 # ========================================================
 
 SITE_LIST = [
-    {"name": "测试高频源", "url": "https://wallstreetcn.com/rss/", "keys": []},
-    # 央行+金融监管
-    {"name":"中国人民银行","url":"https://www.pbc.gov.cn/rss/rss.xml","keys":["降息","降准","货币政策"]},
-    {"name":"证监会官网","url":"https://www.csrc.gov.cn/csrc/c100028/c100029/rss.xml","keys":["IPO","监管","退市"]},
-    {"name":"金融监管总局","url":"https://rsshub.app/gov/nfra/news","keys":["银行保险","金融政策"]},
-    {"name":"央行公开市场","url":"https://rsshub.app/gov/pbc/goutongjiaoliu","keys":["逆回购","MLF"]},
-    {"name":"美联储资讯","url":"https://www.federalreserve.gov/feeds/press_all.xml","keys":["加息","美元"]},
-    # 宏观财经大盘
-    {"name":"财新金融","url":"https://www.caixin.com/rss/finance.xml","keys":["市场动态","产业经济"]},
-    {"name":"华尔街见闻","url":"https://wallstreetcn.com/rss/","keys":["全球行情","盘面解读"]},
-    {"name":"第一财经股市","url":"https://www.yicai.com/rss/stock.xml","keys":["A股","板块热点"]},
-    {"name":"雪球投资热帖","url":"https://xueqiu.com/hots/topic/rss","keys":["个股","资金流向"]},
-    {"name":"国家统计局","url":"https://www.stats.gov.cn/rss/tjsj.xml","keys":["经济数据","物价GDP"]},
-    {"name":"中证网财经","url":"https://www.cs.com.cn/rss/","keys":["证券基金"]},
-    # 创投+融资+黑马企业
-    {"name":"36氪创投","url":"https://36kr.com/feed/column/venture","keys":["融资","并购","创业项目"]},
-    {"name":"猎云网创投","url":"https://www.lieyunwang.com/feed","keys":["初创企业","赛道投资"]},
-    {"name":"创业邦","url":"https://rsshub.app/cyzone/news","keys":["黑马企业","早期融资"]},
-    {"name":"投资界","url":"https://rsshub.app/zero2ipo/news","keys":["VC/PE","PreIPO"]},
-    # 硬科技+前沿新技术
-    {"name":"科创板日报","url":"https://rsshub.app/cls/kechuangban","keys":["科创企业","专精特新"]},
-    {"name":"机器之心AI","url":"https://www.jiqizhixin.com/rss","keys":["大模型","AI新技术"]},
-    {"name":"量子位前沿科技","url":"https://www.qbitai.com/rss","keys":["算力","前沿突破"]},
-    {"name":"极客公园","url":"https://rsshub.app/geekpark/news","keys":["技术落地","创新产品"]},
-    # 海外顶级科技创投
-    {"name":"TechCrunch硬科技","url":"https://techcrunch.com/tag/hard-tech/feed","keys":["海外黑科技初创"]},
-    {"name":"MIT科技评论","url":"https://www.technologyreview.com/feed/","keys":["未来技术趋势赛道风口"]}
+   SITE_LIST = [
+    # ==================== 一、央行 + 金融监管 ====================
+    # 原因：官网原生RSS停用或对海外机房IP严格物理阻断。
+    # 替代：改用新浪财经高频抓取的官方公告流，以及支持海外机房的 RSSHub 优质公共节点。
+    {"name": "中国人民银行-公告", "url": "https://rss.feedverse.info/sina/gov/pbc", "keys": ["降息", "降准", "货币政策"]},
+    {"name": "证监会官网-动态", "url": "https://rss.feedverse.info/sina/gov/csrc", "keys": ["IPO", "监管", "退市"]},
+    {"name": "金融监管总局", "url": "https://rss.feedverse.info/gov/nfra/news", "keys": ["银行保险", "金融政策"]},
+    {"name": "央行公开市场操作", "url": "https://rss.feedverse.info/gov/pbc/goutongjiaoliu", "keys": ["逆回购", "MLF", "公开市场"]},
+    {"name": "美联储资讯(Fed)", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "keys": ["加息", "美元"]},
+
+    # ==================== 二、宏观财经大盘 ====================
+    # 原因：财新、华尔街见闻、雪球对微软Azure机房（GitHub运行环境）有极严格的Cloudflare五秒盾反爬。
+    # 替代：使用 feedx 干净清洁节点或支持跨国抓取的镜像，保障内容不被403阻断。
+    {"name": "华尔街见闻-实时快讯", "url": "https://feedx.net/rss/wallstreetcn.xml", "keys": ["全球行情", "盘面解读"]},
+    {"name": "财新网-金融要闻", "url": "https://feedx.net/rss/caixin.xml", "keys": ["市场动态", "产业经济"]},
+    {"name": "第一财经-股市", "url": "https://feedx.net/rss/yicai.xml", "keys": ["A股", "板块热点"]},
+    {"name": "雪球投资热帖", "url": "https://rss.feedverse.info/xueqiu/hots", "keys": ["个股", "资金流向"]},
+    {"name": "国家统计局-数据", "url": "https://rss.feedverse.info/sina/gov/stats", "keys": ["经济数据", "物价GDP"]},
+    {"name": "中证网-证券基金", "url": "https://feedx.net/rss/cs.xml", "keys": ["证券", "基金"]},
+
+    # ==================== 三、创投 + 融资 + 黑马企业 ====================
+    # 原因：36氪垂直栏目RSS收窄，创业邦、投资界走公共RSSHub极易超时。
+    # 替代：聚合36氪全量高频流配合关键词过滤，RSSHub节点替换为高可用海外镜像。
+    {"name": "36氪-创投快讯", "url": "https://36kr.com/feed", "keys": ["融资", "并购", "创业项目"]},
+    {"name": "钛媒体-创投", "url": "https://feedx.net/rss/tmtpost.xml", "keys": ["初创企业", "赛道投资"]},
+    {"name": "创业邦", "url": "https://rss.feedverse.info/cyzone/news", "keys": ["黑马企业", "早期融资"]},
+    {"name": "投资界(清科)", "url": "https://rss.feedverse.info/zero2ipo/news", "keys": ["VC/PE", "PreIPO"]},
+
+    # ==================== 四、硬科技 + 前沿新技术 ====================
+    # 原因：科创板日报反爬严重，量子位及极客公园原生RSS偶发性XML格式格式化错误。
+    # 替代：引入财联社/科创板代理流，修复原生科技媒体的格式兼容性。
+    {"name": "科创板日报", "url": "https://rss.feedverse.info/cls/kechuangban", "keys": ["科创企业", "专精特新"]},
+    {"name": "机器之心AI", "url": "https://www.jiqizhixin.com/rss", "keys": ["大模型", "AI新技术"]},
+    {"name": "量子位-前沿科技", "url": "https://feedx.net/rss/qbitai.xml", "keys": ["算力", "前沿突破"]},
+    {"name": "极客公园", "url": "https://rss.feedverse.info/geekpark/news", "keys": ["技术落地", "创新产品"]},
+
+    # ==================== 五、海外顶级科技创投 ====================
+    # 原因：原生源无问题，但在海外机房运行时，无需设置复杂的过滤关键词即可秒级响应。
+    {"name": "TechCrunch HardTech", "url": "https://techcrunch.com/tag/hard-tech/feed/", "keys": []},
+    {"name": "MIT科技评论", "url": "https://www.technologyreview.com/feed/", "keys": []}
+]
 ]
 
 def send_feishu(site_name, title, link):
