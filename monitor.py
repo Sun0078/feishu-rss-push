@@ -8,10 +8,8 @@ from datetime import datetime
 FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee3-8a7b-49a49ee7bd31"
 # ========================================================
 
-   SITE_LIST = [
+SITE_LIST = [
     # ==================== 一、央行 + 金融监管 ====================
-    # 原因：官网原生RSS停用或对海外机房IP严格物理阻断。
-    # 替代：改用新浪财经高频抓取的官方公告流，以及支持海外机房的 RSSHub 优质公共节点。
     {"name": "中国人民银行-公告", "url": "https://rss.feedverse.info/sina/gov/pbc", "keys": ["降息", "降准", "货币政策"]},
     {"name": "证监会官网-动态", "url": "https://rss.feedverse.info/sina/gov/csrc", "keys": ["IPO", "监管", "退市"]},
     {"name": "金融监管总局", "url": "https://rss.feedverse.info/gov/nfra/news", "keys": ["银行保险", "金融政策"]},
@@ -19,8 +17,6 @@ FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee
     {"name": "美联储资讯(Fed)", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "keys": ["加息", "美元"]},
 
     # ==================== 二、宏观财经大盘 ====================
-    # 原因：财新、华尔街见闻、雪球对微软Azure机房（GitHub运行环境）有极严格的Cloudflare五秒盾反爬。
-    # 替代：使用 feedx 干净清洁节点或支持跨国抓取的镜像，保障内容不被403阻断。
     {"name": "华尔街见闻-实时快讯", "url": "https://feedx.net/rss/wallstreetcn.xml", "keys": ["全球行情", "盘面解读"]},
     {"name": "财新网-金融要闻", "url": "https://feedx.net/rss/caixin.xml", "keys": ["市场动态", "产业经济"]},
     {"name": "第一财经-股市", "url": "https://feedx.net/rss/yicai.xml", "keys": ["A股", "板块热点"]},
@@ -29,26 +25,43 @@ FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee
     {"name": "中证网-证券基金", "url": "https://feedx.net/rss/cs.xml", "keys": ["证券", "基金"]},
 
     # ==================== 三、创投 + 融资 + 黑马企业 ====================
-    # 原因：36氪垂直栏目RSS收窄，创业邦、投资界走公共RSSHub极易超时。
-    # 替代：聚合36氪全量高频流配合关键词过滤，RSSHub节点替换为高可用海外镜像。
     {"name": "36氪-创投快讯", "url": "https://36kr.com/feed", "keys": ["融资", "并购", "创业项目"]},
     {"name": "钛媒体-创投", "url": "https://feedx.net/rss/tmtpost.xml", "keys": ["初创企业", "赛道投资"]},
     {"name": "创业邦", "url": "https://rss.feedverse.info/cyzone/news", "keys": ["黑马企业", "早期融资"]},
     {"name": "投资界(清科)", "url": "https://rss.feedverse.info/zero2ipo/news", "keys": ["VC/PE", "PreIPO"]},
 
     # ==================== 四、硬科技 + 前沿新技术 ====================
-    # 原因：科创板日报反爬严重，量子位及极客公园原生RSS偶发性XML格式格式化错误。
-    # 替代：引入财联社/科创板代理流，修复原生科技媒体的格式兼容性。
     {"name": "科创板日报", "url": "https://rss.feedverse.info/cls/kechuangban", "keys": ["科创企业", "专精特新"]},
     {"name": "机器之心AI", "url": "https://www.jiqizhixin.com/rss", "keys": ["大模型", "AI新技术"]},
     {"name": "量子位-前沿科技", "url": "https://feedx.net/rss/qbitai.xml", "keys": ["算力", "前沿突破"]},
     {"name": "极客公园", "url": "https://rss.feedverse.info/geekpark/news", "keys": ["技术落地", "创新产品"]},
 
     # ==================== 五、海外顶级科技创投 ====================
-    # 原因：原生源无问题，但在海外机房运行时，无需设置复杂的过滤关键词即可秒级响应。
     {"name": "TechCrunch HardTech", "url": "https://techcrunch.com/tag/hard-tech/feed/", "keys": []},
-    {"name": "MIT科技评论", "url": "https://www.technologyreview.com/feed/", "keys": []}
+    {"name": "MIT科技评论", "url": "https://www.technologyreview.com/feed/", "keys": []},
+
+    # ==================== 六、Web3 智库 + 链上 Alpha 猎手（新增） ====================
+    {"name": "ChainCatcher-链捕手", "url": "https://feedx.net/rss/chaincatcher.xml", "keys": ["融资", "空投", "核心协议", "Alpha"]},
+    {"name": "Foresight News-实时快讯", "url": "https://rss.feedverse.info/foresightnews/news", "keys": []},
+    {"name": "PANews-加密前沿", "url": "https://rss.feedverse.info/panews/news", "keys": ["融资", "监管", "以太坊", "Meme"]},
+    {"name": "CoinDesk-Global", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "keys": ["Bitcoin", "ETF", "SEC", "Fed"]},
+
+    # ==================== 七、全球顶级 VC 与创投风向标（新增） ====================
+    {"name": "a16z Crypto-加密创投", "url": "https://a16zcrypto.com/feed/", "keys": []},
+    {"name": "Crunchbase News-全球融资", "url": "https://news.crunchbase.com/feed/", "keys": ["Funding", "Acquisition", "AI", "Unicorn"]},
+    {"name": "VentureBeat-新兴科技", "url": "https://venturebeat.com/feed/", "keys": ["AI", "generative AI", "funding"]},
+
+    # ==================== 八、国内产业政策与硬科技风向（新增） ====================
+    {"name": "工信部-政策发布", "url": "https://rss.feedverse.info/sina/gov/miit", "keys": ["半导体", "人工智能", "低空经济", "专精特新"]},
+    {"name": "36氪-未来汽车日报", "url": "https://rss.feedverse.info/36kr.info/automotive", "keys": ["智驾", "固态电池", "小米汽车", "特斯拉"]},
+    {"name": "集微网-半导体风向", "url": "https://feedx.net/rss/jiwei.xml", "keys": ["芯片", "光刻机", "美光", "台积电"]},
+
+    # ==================== 九、大厂与前沿实验室技术落地（新增） ====================
+    {"name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml", "keys": []},
+    {"name": "Google Research Blog", "url": "https://blog.google/technology/research/rss/", "keys": []},
+    {"name": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com/releases.xml", "keys": ["GPU", "Blackwell", "AI", "B200"]}
 ]
+
 def send_feishu(site_name, title, link):
     msg = {
         "msg_type": "text",
@@ -62,9 +75,11 @@ def send_feishu(site_name, title, link):
         print(f"飞书推送失败: {e}")
 
 def main():
+    # 链路测试：只要运行，强行先发一条消息，确保飞书通道OK
+    send_feishu("系统链路测试", "GitHub Actions 已成功连接飞书，全面扩容看板开始扫描...", "https://github.com")
+    
     record_file = "record.json"
     
-    # 读取历史记录
     if os.path.exists(record_file):
         with open(record_file, "r", encoding="utf-8") as f:
             try:
@@ -92,7 +107,6 @@ def main():
         if not feed.entries:
             continue
 
-        # 获取最新的一条文章
         latest_entry = feed.entries[0]
         title = latest_entry.get("title", "")
         link = latest_entry.get("link", "")
@@ -100,9 +114,7 @@ def main():
         if not link:
             continue
 
-        # 检查是否是全新文章
         if old_record.get(site_url) != link:
-            # 命中关键词过滤（若命中，或关键词列表为空则放行）
             is_match = False
             if not keywords:
                 is_match = True
@@ -116,10 +128,8 @@ def main():
                 print(f"发现新文章并命中关键词: {title}")
                 send_feishu(site_name, title, link)
             
-            # 更新记录
             old_record[site_url] = link
 
-    # 保存最新记录到本地文件
     with open(record_file, "w", encoding="utf-8") as f:
         json.dump(old_record, f, ensure_ascii=False, indent=4)
 
