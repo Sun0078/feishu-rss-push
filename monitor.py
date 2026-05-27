@@ -9,6 +9,7 @@ FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee
 # ========================================================
 
 SITE_LIST = [
+    {"name": "测试高频源", "url": "https://wallstreetcn.com/rss/", "keys": []},
     # 央行+金融监管
     {"name":"中国人民银行","url":"https://www.pbc.gov.cn/rss/rss.xml","keys":["降息","降准","货币政策"]},
     {"name":"证监会官网","url":"https://www.csrc.gov.cn/csrc/c100028/c100029/rss.xml","keys":["IPO","监管","退市"]},
