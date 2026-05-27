@@ -11,5 +11,6 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/"
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/ever-restless-mount-dukono-erupts/"
 }
