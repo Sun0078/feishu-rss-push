@@ -9,12 +9,11 @@ jobs:
   run-task:
     runs-on: ubuntu-latest
     permissions:
-      contents: write     # 核心权限：允许将最新的record.json同步回你的仓库
+      contents: write     # 核心权限：允许自动更新并将 record.json 存回你的仓库
     steps:
-      # 1. 升级到支持 Node.js 24 的 v5 版本
+      # 升级至官方支持 Node.js 24 的最新组件
       - uses: actions/checkout@v5
 
-      # 2. 升级到支持 Node.js 24 的 v6 版本
       - name: 配置 Python 环境
         uses: actions/setup-python@v6
         with:
