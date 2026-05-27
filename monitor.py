@@ -23,40 +23,48 @@ SITE_LIST = [
     {"name": "雪球投资热帖", "url": "https://rss.feedverse.info/xueqiu/hots", "keys": ["个股", "资金流向"]},
     {"name": "国家统计局-数据", "url": "https://rss.feedverse.info/sina/gov/stats", "keys": ["经济数据", "物价GDP"]},
     {"name": "中证网-证券基金", "url": "https://feedx.net/rss/cs.xml", "keys": ["证券", "基金"]},
+    {"name": "路透国际财经", "url": "https://feedx.net/rss/reuters.xml", "keys": ["外贸", "全球经济"]},
 
     # ==================== 三、创投 + 融资 + 黑马企业 ====================
     {"name": "36氪-创投快讯", "url": "https://36kr.com/feed", "keys": ["融资", "并购", "创业项目"]},
     {"name": "钛媒体-创投", "url": "https://feedx.net/rss/tmtpost.xml", "keys": ["初创企业", "赛道投资"]},
+    {"name": "猎云网创投", "url": "https://feedx.net/rss/lieyunwang.xml", "keys": ["初创企业", "赛道投资"]},
     {"name": "创业邦", "url": "https://rss.feedverse.info/cyzone/news", "keys": ["黑马企业", "早期融资"]},
     {"name": "投资界(清科)", "url": "https://rss.feedverse.info/zero2ipo/news", "keys": ["VC/PE", "PreIPO"]},
+    {"name": "黑马创业资讯", "url": "https://rss.feedverse.info/heimaying/news", "keys": ["隐形黑马", "成长企业"]},
 
     # ==================== 四、硬科技 + 前沿新技术 ====================
     {"name": "科创板日报", "url": "https://rss.feedverse.info/cls/kechuangban", "keys": ["科创企业", "专精特新"]},
     {"name": "机器之心AI", "url": "https://www.jiqizhixin.com/rss", "keys": ["大模型", "AI新技术"]},
     {"name": "量子位-前沿科技", "url": "https://feedx.net/rss/qbitai.xml", "keys": ["算力", "前沿突破"]},
     {"name": "极客公园", "url": "https://rss.feedverse.info/geekpark/news", "keys": ["技术落地", "创新产品"]},
+    {"name": "高工机器人", "url": "https://rss.feedverse.info/gg-robot/news", "keys": ["人形机器人", "工业智造"]},
 
-    # ==================== 五、海外顶级科技创投 ====================
-    {"name": "TechCrunch HardTech", "url": "https://techcrunch.com/tag/hard-tech/feed/", "keys": []},
-    {"name": "MIT科技评论", "url": "https://www.technologyreview.com/feed/", "keys": []},
+    # ==================== 五、航天 + 高端制造 ====================
+    {"name": "中国航天新闻", "url": "https://rss.feedverse.info/sina/gov/cnsa", "keys": ["火箭", "卫星", "空间站"]},
+    {"name": "NASA航天资讯", "url": "https://www.nasa.gov/news-release/feed/", "keys": ["太空科技", "深空探测"]},
 
-    # ==================== 六、Web3 智库 + 链上 Alpha 猎手（新增） ====================
+    # ==================== 六、海外顶级科技创投 ====================
+    {"name": "TechCrunch HardTech", "url": "https://techcrunch.com/tag/hard-tech/feed/", "keys": ["海外黑科技", "初创"]},
+    {"name": "MIT科技评论", "url": "https://www.technologyreview.com/feed/", "keys": ["未来技术趋势", "赛道风口"]},
+
+    # ==================== 七、Web3 智库 + 链上 Alpha 猎手 ====================
     {"name": "ChainCatcher-链捕手", "url": "https://feedx.net/rss/chaincatcher.xml", "keys": ["融资", "空投", "核心协议", "Alpha"]},
     {"name": "Foresight News-实时快讯", "url": "https://rss.feedverse.info/foresightnews/news", "keys": []},
     {"name": "PANews-加密前沿", "url": "https://rss.feedverse.info/panews/news", "keys": ["融资", "监管", "以太坊", "Meme"]},
     {"name": "CoinDesk-Global", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "keys": ["Bitcoin", "ETF", "SEC", "Fed"]},
 
-    # ==================== 七、全球顶级 VC 与创投风向标（新增） ====================
+    # ==================== 八、全球顶级 VC 与创投风向标 ====================
     {"name": "a16z Crypto-加密创投", "url": "https://a16zcrypto.com/feed/", "keys": []},
     {"name": "Crunchbase News-全球融资", "url": "https://news.crunchbase.com/feed/", "keys": ["Funding", "Acquisition", "AI", "Unicorn"]},
     {"name": "VentureBeat-新兴科技", "url": "https://venturebeat.com/feed/", "keys": ["AI", "generative AI", "funding"]},
 
-    # ==================== 八、国内产业政策与硬科技风向（新增） ====================
+    # ==================== 九、国内产业政策与硬科技风向 ====================
     {"name": "工信部-政策发布", "url": "https://rss.feedverse.info/sina/gov/miit", "keys": ["半导体", "人工智能", "低空经济", "专精特新"]},
     {"name": "36氪-未来汽车日报", "url": "https://rss.feedverse.info/36kr.info/automotive", "keys": ["智驾", "固态电池", "小米汽车", "特斯拉"]},
     {"name": "集微网-半导体风向", "url": "https://feedx.net/rss/jiwei.xml", "keys": ["芯片", "光刻机", "美光", "台积电"]},
 
-    # ==================== 九、大厂与前沿实验室技术落地（新增） ====================
+    # ==================== 十、大厂与前沿实验室技术落地 ====================
     {"name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml", "keys": []},
     {"name": "Google Research Blog", "url": "https://blog.google/technology/research/rss/", "keys": []},
     {"name": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com/releases.xml", "keys": ["GPU", "Blackwell", "AI", "B200"]}
@@ -75,8 +83,8 @@ def send_feishu(site_name, title, link):
         print(f"飞书推送失败: {e}")
 
 def main():
-    # 链路测试：只要运行，强行先发一条消息，确保飞书通道OK
-    send_feishu("系统链路测试", "GitHub Actions 已成功连接飞书，全面扩容看板开始扫描...", "https://github.com")
+    # 链路激活广播：脚本启动时强行鸣枪，证明飞书通道 100% 是通的
+    send_feishu("系统链路测试", "GitHub Actions 终极全面扩容版上线成功！开始全网扫描...", "https://github.com")
     
     record_file = "record.json"
     
