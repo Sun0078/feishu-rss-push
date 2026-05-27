@@ -8,7 +8,6 @@ from datetime import datetime
 FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee3-8a7b-49a49ee7bd31"
 # ========================================================
 
-SITE_LIST = [
    SITE_LIST = [
     # ==================== 一、央行 + 金融监管 ====================
     # 原因：官网原生RSS停用或对海外机房IP严格物理阻断。
@@ -50,8 +49,6 @@ SITE_LIST = [
     {"name": "TechCrunch HardTech", "url": "https://techcrunch.com/tag/hard-tech/feed/", "keys": []},
     {"name": "MIT科技评论", "url": "https://www.technologyreview.com/feed/", "keys": []}
 ]
-]
-
 def send_feishu(site_name, title, link):
     msg = {
         "msg_type": "text",
