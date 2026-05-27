@@ -70,21 +70,46 @@ SITE_LIST = [
     {"name": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com/releases.xml", "keys": ["GPU", "Blackwell", "AI", "B200"]}
 ]
 
-def send_feishu(site_name, title, link):
+def send_feishu(site_name, title, summary, link):
+    # 清洗HTML标签，截取前150字摘要，保证卡片整洁
+    clean_summary = summary.replace('<', '').replace('>', '').replace('&nbsp;', ' ')[:150]
+    if not clean_summary.strip():
+        clean_summary = "点击下方链接查看原文详情。"
+    else:
+        clean_summary += "..."
+
     msg = {
-        "msg_type": "text",
+        "msg_type": "post",
         "content": {
-            "text": f"🔔【{site_name}】有新动态！\n\n📌标题：{title}\n🔗直达：{link}\n⏰时间：{datetime.now().strftime('%m-%d %H:%M')}"
+            "post": {
+                "zh_cn": {
+                    "title": f"🔔【{site_name}】发现新动态！",
+                    "content": [
+                        [
+                            {"tag": "text", "text": "📌 标题：\n"},
+                            {"tag": "text", "text": f"{title}\n\n", "style": ["bold"]}
+                        ],
+                        [
+                            {"tag": "text", "text": "📝 内容摘要：\n"},
+                            {"tag": "text", "text": f"{clean_summary}\n\n", "style": ["italic"]}
+                        ],
+                        [
+                            {"tag": "a", "text": "🚀 点击这里 ➡️ 直达原文阅读", "href": link}
+                        ]
+                    ]
+                }
+            }
         }
     }
     try:
-        requests.post(FEISHU_WEBHOOK, json=msg, timeout=10)
+        res = requests.post(FEISHU_WEBHOOK, json=msg, timeout=10)
+        print(f"[{site_name}] 推送响应: {res.json()}")
     except Exception as e:
-        print(f"飞书推送失败: {e}")
+        print(f"[{site_name}] 飞书推送失败: {e}")
 
 def main():
-    # 链路激活广播：脚本启动时强行鸣枪，证明飞书通道 100% 是通的
-    send_feishu("系统链路测试", "GitHub Actions 终极全面扩容版上线成功！开始全网扫描...", "https://github.com")
+    # 链路激活广播
+    send_feishu("系统链路测试", "GitHub Actions 终极富文本卡片版上线成功！", "测试摘要：系统正在使用全新架构全网扫描中，30分钟内自动巡查...", "https://github.com")
     
     record_file = "record.json"
     
@@ -115,26 +140,30 @@ def main():
         if not feed.entries:
             continue
 
+        # 提取最新一篇文章的核心要素
         latest_entry = feed.entries[0]
         title = latest_entry.get("title", "")
         link = latest_entry.get("link", "")
+        summary = latest_entry.get("summary", latest_entry.get("description", ""))
 
         if not link:
             continue
 
+        # 比对去重
         if old_record.get(site_url) != link:
             is_match = False
             if not keywords:
                 is_match = True
             else:
+                # 标题或摘要中包含任意关键词即放行
                 for kw in keywords:
-                    if kw in title:
+                    if kw in title or kw in summary:
                         is_match = True
                         break
             
             if is_match:
                 print(f"发现新文章并命中关键词: {title}")
-                send_feishu(site_name, title, link)
+                send_feishu(site_name, title, summary, link)
             
             old_record[site_url] = link
 
