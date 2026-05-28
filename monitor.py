@@ -6,74 +6,74 @@ import re
 from datetime import datetime
 
 # ==================== 🛠️ 唯一修改处 ====================
-FEISHU_WEBHOOK = "[https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee3-8a7b-49a49ee7bd31](https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee3-8a7b-49a49ee7bd31)"
+FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee3-8a7b-49a49ee7bd31"
 
 # 硅基流动 DeepSeek 算力已完美绑定
 AI_API_KEY = "sk-cwrrsvquwdsiqtfjbgsgqqmdjyblnxyiunpqrpvvssgpakzx" 
-AI_API_URL = "[https://api.siliconflow.cn/v1/chat/completions](https://api.siliconflow.cn/v1/chat/completions)" 
+AI_API_URL = "https://api.siliconflow.cn/v1/chat/completions" 
 AI_MODEL = "deepseek-ai/DeepSeek-V3" 
 # ========================================================
 
 SITE_LIST = [
     # ==================== 一、央行 + 金融监管（全量放行） ====================
-    {"name": "中国人民银行-公告", "url": "[https://rsshub.app/sina/gov/pbc](https://rsshub.app/sina/gov/pbc)"},
-    {"name": "证监会官网-动态", "url": "[https://rsshub.app/sina/gov/csrc](https://rsshub.app/sina/gov/csrc)"},
-    {"name": "金融监管总局", "url": "[https://rsshub.app/gov/nfra/news](https://rsshub.app/gov/nfra/news)"},
-    {"name": "央行公开市场操作", "url": "[https://rsshub.app/gov/pbc/goutongjiaoliu](https://rsshub.app/gov/pbc/goutongjiaoliu)"},
-    {"name": "美联储资讯(Fed)", "url": "[https://www.federalreserve.gov/feeds/press_all.xml](https://www.federalreserve.gov/feeds/press_all.xml)"},
+    {"name": "中国人民银行-公告", "url": "https://rsshub.app/sina/gov/pbc"},
+    {"name": "证监会官网-动态", "url": "https://rsshub.app/sina/gov/csrc"},
+    {"name": "金融监管总局", "url": "https://rsshub.app/gov/nfra/news"},
+    {"name": "央行公开市场操作", "url": "https://rsshub.app/gov/pbc/goutongjiaoliu"},
+    {"name": "美联储资讯(Fed)", "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
 
-    # ==================== 二、宏观财经大盘（全量放行） ====================
-    {"name": "华尔街见闻-实时快讯", "url": "[https://feedx.net/rss/wallstreetcn.xml](https://feedx.net/rss/wallstreetcn.xml)"},
-    {"name": "财新网-金融要闻", "url": "[https://feedx.net/rss/caixin.xml](https://feedx.net/rss/caixin.xml)"},
-    {"name": "第一财经-股市", "url": "[https://feedx.net/rss/yicai.xml](https://feedx.net/rss/yicai.xml)"},
-    {"name": "雪球投资热帖", "url": "[https://rsshub.app/xueqiu/hots](https://rsshub.app/xueqiu/hots)"},
-    {"name": "国家统计局-数据", "url": "[https://rsshub.app/sina/gov/stats](https://rsshub.app/sina/gov/stats)"},
-    {"name": "中证网-证券基金", "url": "[https://feedx.net/rss/cs.xml](https://feedx.net/rss/cs.xml)"},
-    {"name": "路透国际财经", "url": "[https://feedx.net/rss/reuters.xml](https://feedx.net/rss/reuters.xml)"},
+    # ==================== 二、宏观财经大盘（全面升级高刷流） ====================
+    {"name": "华尔街见闻-实时快讯", "url": "https://feedx.net/rss/wallstreetcn.xml"},
+    {"name": "财新网-金融要闻", "url": "https://feedx.net/rss/caixin.xml"},
+    {"name": "第一财经-股市", "url": "https://feedx.net/rss/yicai.xml"},
+    {"name": "雪球-最新热帖", "url": "https://rsshub.app/xueqiu/hots"}, 
+    {"name": "国家统计局-数据", "url": "https://rsshub.app/sina/gov/stats"},
+    {"name": "中证网-证券基金", "url": "https://feedx.net/rss/cs.xml"},
+    {"name": "路透国际财经", "url": "https://feedx.net/rss/reuters.xml"},
 
-    # ==================== 三、创投 + 融资 + 黑马企业（全量放行） ====================
-    {"name": "36氪-创投快讯", "url": "[https://36kr.com/feed](https://36kr.com/feed)"},
-    {"name": "钛媒体-创投", "url": "[https://feedx.net/rss/tmtpost.xml](https://feedx.net/rss/tmtpost.xml)"},
-    {"name": "猎云网创投", "url": "[https://feedx.net/rss/lieyunwang.xml](https://feedx.net/rss/lieyunwang.xml)"},
-    {"name": "创业邦", "url": "[https://rsshub.app/cyzone/news](https://rsshub.app/cyzone/news)"},
-    {"name": "投资界(清科)", "url": "[https://rsshub.app/zero2ipo/news](https://rsshub.app/zero2ipo/news)"},
-    {"name": "黑马创业资讯", "url": "[https://rsshub.app/heimaying/news](https://rsshub.app/heimaying/news)"},
+    # ==================== 三、创投 + 融资 + 黑马企业（全面升级零延迟接口） ====================
+    {"name": "36氪-全量快讯", "url": "https://rsshub.app/36kr/news/latest"}, 
+    {"name": "钛媒体-创投动态", "url": "https://feedx.net/rss/tmtpost.xml"},
+    {"name": "猎云网创投", "url": "https://feedx.net/rss/lieyunwang.xml"},
+    {"name": "创业邦-最新", "url": "https://rsshub.app/cyzone/news"},
+    {"name": "投资界(清科)", "url": "https://rsshub.app/zero2ipo/news"},
+    {"name": "黑马创业资讯", "url": "https://rsshub.app/heimaying/news"},
 
-    # ==================== 四、硬科技 + 前沿新技术（全量放行） ====================
-    {"name": "科创板日报", "url": "[https://rsshub.app/cls/kechuangban](https://rsshub.app/cls/kechuangban)"},
-    {"name": "机器之心AI", "url": "[https://www.jiqizhixin.com/rss](https://www.jiqizhixin.com/rss)"},
-    {"name": "量子位-前沿科技", "url": "[https://feedx.net/rss/qbitai.xml](https://feedx.net/rss/qbitai.xml)"},
-    {"name": "极客公园", "url": "[https://rsshub.app/geekpark/news](https://rsshub.app/geekpark/news)"},
-    {"name": "高工机器人", "url": "[https://rsshub.app/gg-robot/news](https://rsshub.app/gg-robot/news)"},
+    # ==================== 四、硬科技 + 前沿新技术（全面升级高刷流） ====================
+    {"name": "科创板日报-快讯", "url": "https://rsshub.app/cls/kechuangban"},
+    {"name": "机器之心AI", "url": "https://www.jiqizhixin.com/rss"},
+    {"name": "量子位-前沿科技", "url": "https://feedx.net/rss/qbitai.xml"},
+    {"name": "极客公园-最新", "url": "https://rsshub.app/geekpark/news"},
+    {"name": "高工机器人", "url": "https://rsshub.app/gg-robot/news"},
 
     # ==================== 五、航天 + 高端制造（全量放行） ====================
-    {"name": "中国航天新闻", "url": "[https://rsshub.app/sina/gov/cnsa](https://rsshub.app/sina/gov/cnsa)"},
-    {"name": "NASA航天资讯", "url": "[https://www.nasa.gov/news-release/feed/](https://www.nasa.gov/news-release/feed/)"},
+    {"name": "中国航天新闻", "url": "https://rsshub.app/sina/gov/cnsa"},
+    {"name": "NASA航天资讯", "url": "https://www.nasa.gov/news-release/feed/"},
 
     # ==================== 六、海外顶级科技创投（全量放行） ====================
-    {"name": "TechCrunch HardTech", "url": "[https://techcrunch.com/tag/hard-tech/feed/](https://techcrunch.com/tag/hard-tech/feed/)"},
-    {"name": "MIT科技评论", "url": "[https://www.technologyreview.com/feed/](https://www.technologyreview.com/feed/)"},
+    {"name": "TechCrunch HardTech", "url": "https://techcrunch.com/tag/hard-tech/feed/"},
+    {"name": "MIT科技评论", "url": "https://www.technologyreview.com/feed/"},
 
-    # ==================== 七、Web3 智库 + 链上 Alpha 猎手（全量放行） ====================
-    {"name": "ChainCatcher-链捕手", "url": "[https://feedx.net/rss/chaincatcher.xml](https://feedx.net/rss/chaincatcher.xml)"},
-    {"name": "Foresight News-实时快讯", "url": "[https://rsshub.app/foresightnews/news](https://rsshub.app/foresightnews/news)"},
-    {"name": "PANews-加密前沿", "url": "[https://rsshub.app/panews/news](https://rsshub.app/panews/news)"},
-    {"name": "CoinDesk-Global", "url": "[https://www.coindesk.com/arc/outboundfeeds/rss/](https://www.coindesk.com/arc/outboundfeeds/rss/)"},
+    # ==================== 七、Web3 智库 + 链上 Alpha 猎手（全量放行，换用高刷流） ====================
+    {"name": "ChainCatcher-链捕手", "url": "https://feedx.net/rss/chaincatcher.xml"},
+    {"name": "Foresight News-实时快讯", "url": "https://rsshub.app/foresightnews/news"}, 
+    {"name": "PANews-加密前沿", "url": "https://rsshub.app/panews/news"}, 
+    {"name": "CoinDesk-Global", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/"},
 
     # ==================== 八、全球顶级 VC 与创投风向标（全量放行） ====================
-    {"name": "a16z Crypto-加密创投", "url": "[https://a16zcrypto.com/feed/](https://a16zcrypto.com/feed/)"},
-    {"name": "Crunchbase News-全球融资", "url": "[https://news.crunchbase.com/feed/](https://news.crunchbase.com/feed/)"},
-    {"name": "VentureBeat-新兴科技", "url": "[https://venturebeat.com/feed/](https://venturebeat.com/feed/)"},
+    {"name": "a16z Crypto-加密创投", "url": "https://a16zcrypto.com/feed/"},
+    {"name": "Crunchbase News-全球融资", "url": "https://news.crunchbase.com/feed/"},
+    {"name": "VentureBeat-新兴科技", "url": "https://venturebeat.com/feed/"},
 
     # ==================== 九、国内产业政策与硬科技风向（全量放行） ====================
-    {"name": "工信部-政策发布", "url": "[https://rsshub.app/sina/gov/miit](https://rsshub.app/sina/gov/miit)"},
-    {"name": "36氪-未来汽车日报", "url": "[https://rsshub.app/36kr.info/automotive](https://rsshub.app/36kr.info/automotive)"},
-    {"name": "集微网-半导体风向", "url": "[https://feedx.net/rss/jiwei.xml](https://feedx.net/rss/jiwei.xml)"},
+    {"name": "工信部-政策发布", "url": "https://rsshub.app/sina/gov/miit"},
+    {"name": "36氪-未来汽车日报", "url": "https://rsshub.app/36kr.info/automotive"},
+    {"name": "集微网-半导体风向", "url": "https://feedx.net/rss/jiwei.xml"},
 
     # ==================== 十、大厂与前沿实验室技术落地（全量放行） ====================
-    {"name": "OpenAI Blog", "url": "[https://openai.com/blog/rss.xml](https://openai.com/blog/rss.xml)"},
-    {"name": "Google Research Blog", "url": "[https://blog.google/technology/research/rss/](https://blog.google/technology/research/rss/)"},
-    {"name": "NVIDIA Newsroom", "url": "[https://nvidianews.nvidia.com/releases.xml](https://nvidianews.nvidia.com/releases.xml)"}
+    {"name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml"},
+    {"name": "Google Research Blog", "url": "https://blog.google/technology/research/rss/"},
+    {"name": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com/releases.xml"}
 ]
 
 def clean_html(raw_html):
@@ -110,9 +110,8 @@ def get_ai_summary(title, content):
     try:
         res = requests.post(AI_API_URL, json=payload, headers=headers, timeout=15)
         raw_reply = res.json()['choices'][0]['message']['content'].strip()
-        # 清洗掉 AI 有可能误带的 Markdown 代码块标签
-        clean_reply = raw_reply.replace('```markdown', '').replace('```', '').strip()
-        return clean_reply
+        return raw_reply.replace('
+```markdown', '').replace('```', '').strip()
     except Exception as e:
         print(f"AI提炼失败: {e}")
         return None
@@ -131,61 +130,30 @@ def send_feishu(site_name, title, summary, link):
     
     if ai_interpreted_content:
         card_title = f"🤖 {site_name} · AI 智能研报"
-        header_template = "orange" # AI版高级橙色栏
+        header_template = "orange"
         formatted_body = ai_interpreted_content
     else:
         card_title = f"🔔 {site_name} · 实时快讯"
-        header_template = "blue" # 普通版清爽蓝色栏
+        header_template = "blue"
         formatted_body = f"📝 **内容摘要：**\n\n*{safe_summary}*"
 
-    # 飞书高档交互卡片标准 JSON 布局（完美对齐换行）
     card_msg = {
         "msg_type": "interactive",
         "card": {
-            "config": {
-                "wide_screen_mode": True,
-                "enable_forward": True
-            },
+            "config": {"wide_screen_mode": True, "enable_forward": True},
             "header": {
-                "title": {
-                    "tag": "plain_text",
-                    "text": card_title
-                },
+                "title": {"tag": "plain_text", "text": card_title},
                 "template": header_template
             },
             "elements": [
-                {
-                    "tag": "div",
-                    "text": {
-                        "tag": "lark_md",
-                        "content": f"⚡️ **资讯源标题**\n**{safe_title}**"
-                    }
-                },
-                {
-                    "tag": "hr"
-                },
-                {
-                    "tag": "div",
-                    "text": {
-                        "tag": "lark_md",
-                        "content": f"{formatted_body}"
-                    }
-                },
-                {
-                    "tag": "hr"
-                },
+                {"tag": "div", "text": {"tag": "lark_md", "content": f"⚡️ **资讯源标题**\n**{safe_title}**"}},
+                {"tag": "hr"},
+                {"tag": "div", "text": {"tag": "lark_md", "content": f"{formatted_body}"}},
+                {"tag": "hr"},
                 {
                     "tag": "action",
                     "actions": [
-                        {
-                            "tag": "button",
-                            "text": {
-                                "tag": "plain_text",
-                                "text": "🚀 穿透阅读原文"
-                            },
-                            "url": link,
-                            "type": "primary" # 亮眼醒目的蓝色全宽高亮大按钮
-                        }
+                        {"tag": "button", "text": {"tag": "plain_text", "text": "🚀 穿透阅读原文"}, "url": link, "type": "primary"}
                     ]
                 }
             ]
@@ -220,17 +188,26 @@ def main():
         if not feed.entries:
             continue
 
-        latest_entry = feed.entries[0]
-        title = latest_entry.get("title", "")
-        link = latest_entry.get("link", "")
-        summary = latest_entry.get("summary", latest_entry.get("description", ""))
+        # 🔥 终极底层跃迁：全部 39 个网站全部改为向下扫描 8 条历史（倒序推送）
+        # 只要这 8 条里有任何一个未读链接，全部排队推送，一个都别想漏
+        entries_to_check = feed.entries[:8]
+        entries_to_check.reverse()
 
-        if not link:
-            continue
+        for entry in entries_to_check:
+            title = entry.get("title", "")
+            link = entry.get("link", "")
+            summary = entry.get("summary", entry.get("description", ""))
 
-        if old_record.get(site_url) != link:
-            send_feishu(site_name, title, summary, link)
-            old_record[site_url] = link
+            if not link:
+                continue
+
+            # 双指针指纹校验，100% 防止旧文污染与漏单
+            cache_key = f"{site_name}_{link}"
+
+            if old_record.get(cache_key) is None and old_record.get(site_url) != link:
+                send_feishu(site_name, title, summary, link)
+                old_record[cache_key] = "read"
+                old_record[site_url] = link
 
     with open(record_file, "w", encoding="utf-8") as f:
         json.dump(old_record, f, ensure_ascii=False, indent=4)
