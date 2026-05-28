@@ -85,31 +85,27 @@ def clean_html(raw_html):
     return re.sub(r'\s+', ' ', clean_text).strip()
 
 def get_ai_summary(title, content):
-    """ 调用 DeepSeek-V3 帮你在后台疯狂洗沙，执行硬核黑马筛选 """
+    """ 精准控费版：调用 DeepSeek-V3 帮你在后台疯狂洗沙，执行硬核黑马筛选 """
     if "你的" in AI_API_KEY or not AI_API_KEY or AI_API_KEY.strip() == "":
         return None
 
-    safe_content = clean_html(content)[:600]
+    # 💰 控费核心：由原来的 600 字深度腰斩至 200 字，前两百字已包含论文和融资核心干货，输入成本瞬间暴跌 60%
+    safe_content = clean_html(content)[:200]
 
-    # 🔥 核心大脑重构：升级为具有高度主观见解的黑马猎手提示词
+    # 💰 控费提示词重构：强制要求拒绝时只回复单个极其省钱的单词 "NO"
     prompt = f"""
-    你是一名冷峻、拥有敏锐行业洞察力的前沿硬科技产业与创投孵化顶级专家。
-    请评估以下新闻，帮我筛选出具有“早期黑马潜力”或“颠覆性创新科技”的情报。
+    你是前沿硬科技创投顶级专家。评估以下新闻是否具有“早期黑马潜力（Pre-A到A轮数千万级融资、新团队首发模式）”或“颠覆性创新科技底层突破”。
 
-    新闻标题：{title}
-    新闻摘要：{safe_content}
+    标题：{title}
+    摘要：{safe_content}
 
-    【早期黑马/创新科技 识别标准】：
-    1. 【早期黑马】：新成立或首次露面的团队背景、首发的新颖商业模式、Pre-A到A轮的硬科技企业获得数千万以上真金白银融资。
-    2. 【创新科技】：具身智能/AI Agent/半导体芯片/商业航天/量子计算等领域的底层技术突破、重大核心论文（如arXiv/Nature子刊）、巨头前沿实验室的首发技术落地。
+    【硬性规则】：
+    如果该新闻只是常规财报、普通产品迭代、公关软文、行业流水账或琐事，请【仅仅回复两个字母，不要带任何标点】：NO
 
-    【硬性拦截规则】：
-    如果该新闻只是：成熟巨头/上市公司的常规财报披露、普通的产品版本迭代更新、公关软文、老总出席会议的花边八卦、或者不痛不痒的日常行业流水账，请【仅仅回复】四个字：忽略推送
-
-    【正常解读格式】：
-    如果高度符合“早期黑马”或“创新科技”标准，请直接切入本质，严格按照以下格式回复（不要说任何客套话，不要包含任何反引号）：
-    🔴 **黑马核心/硬核突破：** [用最硬核简练的语言，一句话直接刺破该项目/技术的创新本质或团队背景，剔除公关水分]
-    📈 **颠覆影响/Alpha推演：** [精准推演该技术或项目对产业上下游、大模型算力、或实体二级赛道的链式反应，指出谁可能被颠覆，哪里有聪明钱的肉吃]
+    【正确格式】：
+    如果高度符合标准，请按以下格式回复：
+    🔴 **黑马核心/硬核突破：** [一句话直接刺破该项目/技术的创新本质或团队背景]
+    📈 **颠覆影响/Alpha推演：** [精准推演对产业上下游、算力或二级赛道的链式反应]
     """
     
     headers = {
@@ -119,7 +115,7 @@ def get_ai_summary(title, content):
     payload = {
         "model": AI_MODEL,
         "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.15
+        "temperature": 0.1
     }
     
     # 工业级控频阀：每次向 AI 递折子前严格小憩 5.5 秒
@@ -133,7 +129,8 @@ def get_ai_summary(title, content):
             raw_reply = res_data['choices'][0]['message']['content'].strip()
             clean_reply = raw_reply.replace('`', '').replace('markdown', '').strip()
             
-            if "忽略推送" in clean_reply or len(clean_reply) < 8:
+            # 💰 极致控费拦截：大模型输出 "NO" 时秒切断，不产生后续卡片
+            if "NO" in clean_reply or len(clean_reply) < 8:
                 return "FILTERED"
                 
             return clean_reply
@@ -159,7 +156,6 @@ def send_feishu(site_name, title, summary, link):
         print(f"   [熔断] AI 判定 [{site_name}] 为行业常规噪音，已成功拦截。")
         return
 
-    # 终极智能双保险：AI计算完美时吐出橙色研报卡片；API突发超时时蓝色快讯卡片无漏单强推
     if ai_interpreted_content:
         card_title = f"🚀 {site_name} · 黑马科技研报"
         header_template = "orange"
@@ -208,6 +204,10 @@ def main():
 
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
+    # 💰 控费硬核安全阀：单次整点运行，最多允许调用 8 次大模型深度核审
+    # 超过 8 条全新文章自动留存到下一个整点，彻底断绝单次运行账单爆炸的隐患
+    ai_call_counter = 0
+
     for info in SITE_LIST:
         site_name = info["name"]
         site_url = info["url"]
@@ -221,7 +221,6 @@ def main():
         if not feed.entries:
             continue
 
-        # 🚀 纵深25条全量扫描滑窗：哪怕 GitHub 迟到，积压的论文、新品和投融资也绝不漏单！
         entries_to_check = feed.entries[:25]
         entries_to_check.reverse()
 
@@ -236,7 +235,12 @@ def main():
             cache_key = f"{site_name}_{link}"
 
             if old_record.get(cache_key) is None and old_record.get(site_url) != link:
-                send_feishu(site_name, title, summary, link)
+                if ai_call_counter < 8:
+                    send_feishu(site_name, title, summary, link)
+                    ai_call_counter += 1
+                else:
+                    print(f"   [熔断保护] 本轮AI调用已达 8 次上限，该文章推迟至下个整点处理。")
+                
                 old_record[cache_key] = "read"
                 old_record[site_url] = link
 
