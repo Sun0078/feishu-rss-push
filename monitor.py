@@ -89,22 +89,22 @@ def get_ai_summary(title, content):
     if "你的" in AI_API_KEY or not AI_API_KEY or AI_API_KEY.strip() == "":
         return None
 
-    safe_content = clean_html(content)[:800]
+    safe_content = clean_html(content)[:600]
 
     prompt = f"""
-    你是一名冷峻、一针见血的Web3、硬科技与宏观财经顶级投研专家。
-    请评估以下新闻是否有行业风向标意义、大额融资、政策重大变动或潜在链上Alpha机会。
+    你是一名冷峻、一针见血的Web3、硬科技与宏观财经行业顶级投研专家。
+    请评估以下新闻是否有行业风向标意义、政策变动、大额融资或潜在Alpha机会。
 
     新闻标题：{title}
     新闻摘要：{safe_content}
 
     【硬性拦截规则】：
-    如果这只是普通的日常流水账、毫无行业影响力的公关八卦、普通产品更新或无关紧要的行业琐事，请【仅仅回复】四个字：忽略推送
+    如果这只是普通的日常流水账、毫无行业影响力的公关八卦或普通琐事，请【仅仅回复】四个字：忽略推送
 
     【正常解读格式】：
-    如果极极具投研价值，请直接切入本质，严格按照以下格式回复（不要说任何客套话，不要包含任何反引号）：
-    🔴 **核心看点：** [用最硬核简练的语言，一句话直接刺破事件本质，剔除公关水分]
-    📈 **潜在影响：** [精准推演该事件对宏观大盘、链上Alpha聪明钱、AI算力或二级赛道的链式反应]
+    如果极具投研价值，请严格按照以下格式回复：
+    🔴 **核心看点：** [一句话直接刺破事件本质，剔除公关水分]
+    📈 **潜在影响：** [精准推演该事件对宏观大盘、链上Alpha、AI算力或二级赛道的链式反应]
     """
     
     headers = {
@@ -117,11 +117,11 @@ def get_ai_summary(title, content):
         "temperature": 0.15
     }
     
-    # 强制防频率限制死锁
-    time.sleep(1.2)
+    # 🛡️ 核心控频阀：强行在每次请求AI前休眠 5.5 秒，完美规避免费账号的 RPM (每分钟请求次数) 超频拦截
+    time.sleep(5.5)
     
     try:
-        res = requests.post(AI_API_URL, json=payload, headers=headers, timeout=15)
+        res = requests.post(AI_API_URL, json=payload, headers=headers, timeout=12)
         res_data = res.json()
         
         if 'choices' in res_data and len(res_data['choices']) > 0:
@@ -134,52 +134,61 @@ def get_ai_summary(title, content):
             return clean_reply
         return None
     except Exception as e:
-        print(f"AI 提炼通讯异常: {e}")
+        print(f"   [警告] AI 接口响应超时或限频: {e}")
         return None
 
 def send_feishu(site_name, title, summary, link):
     safe_title = clean_html(title)[:100]
+    safe_summary = clean_html(summary)[:180]
+    if not safe_summary:
+        safe_summary = "点击下方按钮阅读原文详情。"
+    else:
+        safe_summary += "..."
     
     print(f"-> 正在尝试为 [{site_name}] 进行 AI 智能投研鉴别...")
     ai_interpreted_content = get_ai_summary(safe_title, summary)
     
     if ai_interpreted_content == "FILTERED":
-        print(f"   [熔断] AI 判定 [{site_name}] 该条动态为日常噪音，已拦截。")
+        print(f"   [熔断] AI 判定 [{site_name}] 为行业噪音，已拦截。")
         return
 
+    # 🛠️ 核心机制升级：如果AI计算完美，吐出橙色研报卡片；如果AI超频无响应，绝不漏单，蓝色卡片丝滑降级强推！
     if ai_interpreted_content:
         card_title = f"🤖 {site_name} · AI 智能研报"
         header_template = "orange"
         formatted_body = ai_interpreted_content
-        
-        card_msg = {
-            "msg_type": "interactive",
-            "card": {
-                "config": {"wide_screen_mode": True, "enable_forward": True},
-                "header": {
-                    "title": {"tag": "plain_text", "text": card_title},
-                    "template": header_template
-                },
-                "elements": [
-                    {"tag": "div", "text": {"tag": "lark_md", "content": f"⚡️ **资讯源标题**\n**{safe_title}**"}},
-                    {"tag": "hr"},
-                    {"tag": "div", "text": {"tag": "lark_md", "content": f"{formatted_body}"}},
-                    {"tag": "hr"},
-                    {
-                        "tag": "action",
-                        "actions": [
-                            {"tag": "button", "text": {"tag": "plain_text", "text": "🚀 穿透阅读原文"}, "url": link, "type": "primary"}
-                        ]
-                    }
-                ]
-            }
-        }
-        try:
-            requests.post(FEISHU_WEBHOOK, json=card_msg, timeout=10)
-        except Exception as e:
-            print(f"飞书推送失败: {e}")
     else:
-        print(f"   [跳过] AI接口无响应。")
+        print(f"   [降级] AI接口不可用，转为清爽蓝色普通快讯卡片强推，确保绝不漏单。")
+        card_title = f"🔔 {site_name} · 实时快讯"
+        header_template = "blue"
+        formatted_body = f"📝 **内容摘要：**\n\n*{safe_summary}*"
+
+    card_msg = {
+        "msg_type": "interactive",
+        "card": {
+            "config": {"wide_screen_mode": True, "enable_forward": True},
+            "header": {
+                "title": {"tag": "plain_text", "text": card_title},
+                "template": header_template
+            },
+            "elements": [
+                {"tag": "div", "text": {"tag": "lark_md", "content": f"⚡️ **资讯源标题**\n**{safe_title}**"}},
+                {"tag": "hr"},
+                {"tag": "div", "text": {"tag": "lark_md", "content": f"{formatted_body}"}},
+                {"tag": "hr"},
+                {
+                    "tag": "action",
+                    "actions": [
+                        {"tag": "button", "text": {"tag": "plain_text", "text": "🚀 穿透阅读原文"}, "url": link, "type": "primary"}
+                    ]
+                }
+            ]
+        }
+    }
+    try:
+        requests.post(FEISHU_WEBHOOK, json=card_msg, timeout=10)
+    except Exception as e:
+        print(f"飞书推送失败: {e}")
 
 def main():
     record_file = "record.json"
@@ -205,8 +214,7 @@ def main():
         if not feed.entries:
             continue
 
-        # 🚀 绝不漏单跃迁：从只看 3 条，升级为向下全量扫描最新 25 条历史！
-        # 就算 GitHub 排队延迟 2 个小时，积压的所有新文章都会在这里被全部召回、排队过筛！
+        # 向下扫描 25 条历史，彻底断绝漏单可能性
         entries_to_check = feed.entries[:25]
         entries_to_check.reverse()
 
@@ -220,7 +228,6 @@ def main():
 
             cache_key = f"{site_name}_{link}"
 
-            # 真正完全把控制权交给【二：去重库识别】和【三：AI过滤】
             if old_record.get(cache_key) is None and old_record.get(site_url) != link:
                 send_feishu(site_name, title, summary, link)
                 old_record[cache_key] = "read"
