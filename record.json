@@ -4,12 +4,12 @@
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-    "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/policy/2026/05/27/u-s-cftc-files-request-to-erase-gemini-settlement-that-it-no-longer-considers-fair",
+    "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/coindesk-indices/2026/05/28/coindesk-20-performance-update-stellar-xlm-jumps-10-5-as-nearly-all-assets-fall",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/regional/africa-ecosystem-innovation-gap-onetti-mind-the-bridge/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/ramp",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -160,5 +160,8 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-cpu-delivery/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-cpu-delivery/": "read",
+    "CoinDesk-Global_https://www.coindesk.com/coindesk-indices/2026/05/28/coindesk-20-performance-update-stellar-xlm-jumps-10-5-as-nearly-all-assets-fall": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/": "read"
 }
