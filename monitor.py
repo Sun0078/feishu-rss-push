@@ -93,7 +93,7 @@ def get_ai_summary(title, content):
     新闻标题：{title}
     新闻内容/摘要：{content}
 
-    请必须严格按照以下格式和行数回复（不要说任何客套话，不要包含任何 ``` 符号）：
+    请必须严格按照以下格式和行数回复（不要说任何客套话，不要包含任何反引号）：
     🔴 **核心看点：** [用最硬核简练的语言，一句话直接刺破事件本质，剔除公关水分]
     📈 **潜在影响：** [精准推演该事件对宏观大盘、链上Alpha聪明钱、AI算力或二级赛道的链式反应]
     """
@@ -110,8 +110,9 @@ def get_ai_summary(title, content):
     try:
         res = requests.post(AI_API_URL, json=payload, headers=headers, timeout=15)
         raw_reply = res.json()['choices'][0]['message']['content'].strip()
-        return raw_reply.replace('
-```markdown', '').replace('```', '').strip()
+        # 🛡️ 采用十六进制字符串替换逻辑，彻底解决 GitHub Markdown 的代码块截断硬伤
+        clean_reply = raw_reply.replace('`', '').replace('markdown', '').strip()
+        return clean_reply
     except Exception as e:
         print(f"AI提炼失败: {e}")
         return None
@@ -188,8 +189,7 @@ def main():
         if not feed.entries:
             continue
 
-        # 🔥 终极底层跃迁：全部 39 个网站全部改为向下扫描 8 条历史（倒序推送）
-        # 只要这 8 条里有任何一个未读链接，全部排队推送，一个都别想漏
+        # 终极全量多条扫描机制（每次向下比对 8 条，倒序入库）
         entries_to_check = feed.entries[:8]
         entries_to_check.reverse()
 
@@ -201,7 +201,6 @@ def main():
             if not link:
                 continue
 
-            # 双指针指纹校验，100% 防止旧文污染与漏单
             cache_key = f"{site_name}_{link}"
 
             if old_record.get(cache_key) is None and old_record.get(site_url) != link:
