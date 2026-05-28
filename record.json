@@ -4,7 +4,7 @@
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-    "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/coindesk-indices/2026/05/28/coindesk-20-performance-update-stellar-xlm-jumps-10-5-as-nearly-all-assets-fall",
+    "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/regional/africa-ecosystem-innovation-gap-onetti-mind-the-bridge/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/ramp",
@@ -163,5 +163,7 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-cpu-delivery/": "read",
     "CoinDesk-Global_https://www.coindesk.com/coindesk-indices/2026/05/28/coindesk-20-performance-update-stellar-xlm-jumps-10-5-as-nearly-all-assets-fall": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/": "read",
+    "CoinDesk-Global_https://www.coindesk.com/markets/2026/05/28/standard-chartered-backs-usd4-000-ether-as-retail-piles-into-the-sub-usd2-000-drop": "read",
+    "CoinDesk-Global_https://www.coindesk.com/markets/2026/05/28/what-s-next-as-hot-money-cycle-has-gone-from-crypto-to-gold-to-ai-to-memory": "read"
 }
