@@ -10,7 +10,7 @@ FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee
 
 # 填入你注册的硅基流动或DeepSeek密钥。
 # 如果不填，代码会自动降级为漂亮的蓝色标准快讯卡片，绝不报错。
-AI_API_KEY = "你的_AI_API_KEY_在这里" 
+AI_API_KEY = "sk-cwrrsvquwdsiqtfjbgsgqqmdjyblnxyiunpqrpvvssgpakzx" 
 AI_API_URL = "https://api.siliconflow.cn/v1/chat/completions" 
 AI_MODEL = "deepseek-ai/DeepSeek-V3" 
 # ========================================================
