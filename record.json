@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/a-shift-in-whats-shaping-u-s-landscapes/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
-    "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/28/samsung-is-buying-a-usd446-million-stake-in-south-korea-s-biggest-crypto-exchange",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/startups/tech-layoffs/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/vaneck-s-tokenized-fund-lands-on-euler-as-defi-courts-wall-street-institutions",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/regional/africa-ecosystem-innovation-gap-onetti-mind-the-bridge/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/cisco",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
@@ -85,5 +85,10 @@
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-events-for-financial-community-6921679": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-cpu-phoronix/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/": "read",
-    "CoinDesk-Global_https://www.coindesk.com/business/2026/05/28/samsung-is-buying-a-usd446-million-stake-in-south-korea-s-biggest-crypto-exchange": "read"
+    "CoinDesk-Global_https://www.coindesk.com/business/2026/05/28/samsung-is-buying-a-usd446-million-stake-in-south-korea-s-biggest-crypto-exchange": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/": "read",
+    "CoinDesk-Global_https://www.coindesk.com/daybook-us/2026/05/28/u-s-iran-strikes-rattle-global-markets-send-bitcoin-to-6-week-low": "read",
+    "CoinDesk-Global_https://www.coindesk.com/business/2026/05/27/vaneck-s-tokenized-fund-lands-on-euler-as-defi-courts-wall-street-institutions": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/diversity/black-startup-founder-venture-funding-data-q1-2026/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/regional/africa-ecosystem-innovation-gap-onetti-mind-the-bridge/": "read"
 }
