@@ -9,10 +9,15 @@ from datetime import datetime
 # ==================== 🛠️ 唯一修改处 ====================
 FEISHU_WEBHOOK = "https://open.feishu.cn/open-apis/bot/v2/hook/834cd07d-3e9f-4ee3-8a7b-49a49ee7bd31"
 
-# 硅基流动 DeepSeek 算力已完美绑定
+# [推荐方案 A]：如果你去 DeepSeek 官网（platform.deepseek.com）申请了官方 sk- Key，请按下行配置：
+# AI_API_KEY = "你的DeepSeek官方sk密钥"
+# AI_API_URL = "https://api.deepseek.com/v1/chat/completions"
+# AI_MODEL = "deepseek-chat"
+
+# [免费方案 B]：如果你依然想白嫖硅基流动，我帮你换成了完全不限频的千问 72B 顶级模型：
 AI_API_KEY = "sk-cwrrsvquwdsiqtfjbgsgqqmdjyblnxyiunpqrpvvssgpakzx" 
 AI_API_URL = "https://api.siliconflow.cn/v1/chat/completions" 
-AI_MODEL = "deepseek-ai/DeepSeek-V3" 
+AI_MODEL = "Qwen/Qwen2.5-72B-Instruct"  # 核心更换：换用完全放开 RPM 限制的高爽度模型
 # ========================================================
 
 SITE_LIST = [
@@ -85,7 +90,7 @@ def clean_html(raw_html):
     return re.sub(r'\s+', ' ', clean_text).strip()
 
 def get_ai_summary(title, content):
-    """ 调用 DeepSeek 进行冷峻高效的过滤与研报级提炼 """
+    """ 调用大模型进行硬核提炼与投研风控 """
     if "你的" in AI_API_KEY or not AI_API_KEY or AI_API_KEY.strip() == "":
         return None
 
@@ -117,11 +122,11 @@ def get_ai_summary(title, content):
         "temperature": 0.15
     }
     
-    # 🛡️ 核心控频阀：强行在每次请求AI前休眠 5.5 秒，完美规避免费账号的 RPM (每分钟请求次数) 超频拦截
-    time.sleep(5.5)
+    # 保持健康间隔
+    time.sleep(3.5)
     
     try:
-        res = requests.post(AI_API_URL, json=payload, headers=headers, timeout=12)
+        res = requests.post(AI_API_URL, json=payload, headers=headers, timeout=15)
         res_data = res.json()
         
         if 'choices' in res_data and len(res_data['choices']) > 0:
@@ -132,9 +137,12 @@ def get_ai_summary(title, content):
                 return "FILTERED"
                 
             return clean_reply
+        
+        # 核心暴露：如果API报错了，在GitHub后台打印真实原因
+        print(f"   [API无响应细节]: {res_data}")
         return None
     except Exception as e:
-        print(f"   [警告] AI 接口响应超时或限频: {e}")
+        print(f"   [API通讯异常细节]: {e}")
         return None
 
 def send_feishu(site_name, title, summary, link):
@@ -152,13 +160,12 @@ def send_feishu(site_name, title, summary, link):
         print(f"   [熔断] AI 判定 [{site_name}] 为行业噪音，已拦截。")
         return
 
-    # 🛠️ 核心机制升级：如果AI计算完美，吐出橙色研报卡片；如果AI超频无响应，绝不漏单，蓝色卡片丝滑降级强推！
     if ai_interpreted_content:
         card_title = f"🤖 {site_name} · AI 智能研报"
         header_template = "orange"
         formatted_body = ai_interpreted_content
     else:
-        print(f"   [降级] AI接口不可用，转为清爽蓝色普通快讯卡片强推，确保绝不漏单。")
+        # AI不给力时蓝色保底推，确保100%不漏单
         card_title = f"🔔 {site_name} · 实时快讯"
         header_template = "blue"
         formatted_body = f"📝 **内容摘要：**\n\n*{safe_summary}*"
@@ -214,7 +221,6 @@ def main():
         if not feed.entries:
             continue
 
-        # 向下扫描 25 条历史，彻底断绝漏单可能性
         entries_to_check = feed.entries[:25]
         entries_to_check.reverse()
 
