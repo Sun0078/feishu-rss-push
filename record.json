@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/diversity/venture-women-owned-startup-funding-aequitas-invest/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/boston-childrens-hospital",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/braintrust",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -204,5 +204,12 @@
     "MIT科技评论_https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer": "read",
-    "OpenAI Blog_https://openai.com/index/boston-childrens-hospital": "read"
+    "OpenAI Blog_https://openai.com/index/boston-childrens-hospital": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/memo-memory-model-teams-upgrade-llm-without-retraining": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions": "read",
+    "OpenAI Blog_https://openai.com/index/trustworthy-third-party-evaluations-foundations": "read",
+    "OpenAI Blog_https://openai.com/index/braintrust": "read"
 }
