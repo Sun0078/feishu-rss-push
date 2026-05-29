@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/anthropic-nears-1t-valuation-65b-seriesh/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/diversity/venture-women-owned-startup-funding-aequitas-invest/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/mufg",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -192,5 +192,11 @@
     "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/": "read",
     "OpenAI Blog_https://openai.com/index/endava": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/painting-the-growing-season-in-the-maize-triangle/": "read",
-    "OpenAI Blog_https://openai.com/index/mufg": "read"
+    "OpenAI Blog_https://openai.com/index/mufg": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/diversity/venture-women-owned-startup-funding-aequitas-invest/": "read",
+    "OpenAI Blog_https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": "read"
 }
