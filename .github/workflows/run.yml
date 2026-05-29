@@ -25,6 +25,9 @@ jobs:
           pip install requests feedparser
 
       - name: 执行全网资讯监控
+        env:
+          # 核心省心配置：强制 Python 实时刷新日志，打破缓存黑箱，100% 吐出每一个网站的巡逻签到
+          PYTHONUNBUFFERED: 1
         run: python monitor.py
 
       - name: 自动保存运行状态到仓库
