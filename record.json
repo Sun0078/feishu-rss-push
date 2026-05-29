@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/hubble/hubble-captures-m88-on-journey-to-center-of-virgo-cluster/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/diversity/venture-women-owned-startup-funding-aequitas-invest/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/boston-childrens-hospital",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -198,5 +198,11 @@
     "MIT科技评论_https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/diversity/venture-women-owned-startup-funding-aequitas-invest/": "read",
-    "OpenAI Blog_https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": "read"
+    "OpenAI Blog_https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer": "read",
+    "OpenAI Blog_https://openai.com/index/boston-childrens-hospital": "read"
 }
