@@ -7,7 +7,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/anthropic-nears-1t-valuation-65b-seriesh/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/openai-frontier-governance-framework",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/endava",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -189,5 +189,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5": "read",
     "OpenAI Blog_https://openai.com/index/openai-frontier-governance-framework": "read",
     "NASA航天资讯_https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-daniel-stubbs/": "read",
-    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/": "read"
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-first-supersonic-flight/": "read",
+    "OpenAI Blog_https://openai.com/index/endava": "read"
 }
