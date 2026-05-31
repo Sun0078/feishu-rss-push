@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/braintrust",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
@@ -211,5 +211,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/memo-memory-model-teams-upgrade-llm-without-retraining": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions": "read",
     "OpenAI Blog_https://openai.com/index/trustworthy-third-party-evaluations-foundations": "read",
-    "OpenAI Blog_https://openai.com/index/braintrust": "read"
+    "OpenAI Blog_https://openai.com/index/braintrust": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow": "read"
 }
