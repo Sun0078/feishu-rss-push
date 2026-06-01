@@ -3,13 +3,13 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/startup-founder-building-personal-connections-fundraise-vandervorm-clyx/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/braintrust",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -230,5 +230,9 @@
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-foxconn-and-taiwan-medical-centers-bring-agentic-and-physical-ai-to-healthy-taiwan": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/boston-startup-funding-gains-ai-biotech-healthcare-whoop/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/startup-founder-building-personal-connections-fundraise-vandervorm-clyx/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-cloud-ecosystem/": "read"
 }
