@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/pretty-in-pink-2/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/startup-founder-building-personal-connections-fundraise-vandervorm-clyx/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/ai-unicorn-anthropic-files-confidentially-for-ipo/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/braintrust",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
@@ -234,5 +234,13 @@
     "MIT科技评论_https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/boston-startup-funding-gains-ai-biotech-healthcare-whoop/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/startup-founder-building-personal-connections-fundraise-vandervorm-clyx/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-cloud-ecosystem/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-cloud-ecosystem/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/gravity-waves-from-super-typhoon-sinlaku/": "read",
+    "NASA航天资讯_https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/pretty-in-pink-2/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/public/ai-unicorn-anthropic-files-confidentially-for-ipo/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/ai-doesnt-break-security-complexity-does": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost": "read"
 }
