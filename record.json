@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/ai-unicorn-anthropic-files-confidentially-for-ipo/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/stargate-michigan-data-center",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -247,5 +247,9 @@
     "NASA航天资讯_https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-near-houston/": "read",
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/": "read",
     "OpenAI Blog_https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": "read",
-    "OpenAI Blog_https://openai.com/index/stargate-michigan-data-center": "read"
+    "OpenAI Blog_https://openai.com/index/stargate-michigan-data-center": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/fires-footprint-on-santa-rosa-island/": "read",
+    "OpenAI Blog_https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/": "read"
 }
