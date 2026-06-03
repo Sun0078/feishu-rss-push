@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -279,5 +279,6 @@
     "OpenAI Blog_https://openai.com/index/codex-for-every-role-tool-workflow": "read",
     "OpenAI Blog_https://openai.com/index/travelers": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/": "read"
 }
