@@ -1,11 +1,11 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/defense-tech/startup-venture-funding-all-time-record-ai-anduril/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/travelers",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
@@ -280,5 +280,9 @@
     "OpenAI Blog_https://openai.com/index/travelers": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/": "read",
-    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/": "read"
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/": "read",
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/": "read"
 }
