@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/biodefense-in-the-intelligence-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
@@ -319,5 +319,13 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/ai/defense-legal-tech-venture-funding-ip-theo/": "read",
     "NASA航天资讯_https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/": "read",
-    "Google Research Blog_https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/": "read"
+    "Google Research Blog_https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/": "read",
+    "NASA航天资讯_https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/": "read",
+    "NASA航天资讯_https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/": "read",
+    "NASA航天资讯_https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/": "read",
+    "NASA航天资讯_https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence": "read"
 }
