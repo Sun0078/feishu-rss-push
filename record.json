@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/biodefense-in-the-intelligence-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/iwd-whm-the-art-of-the-possible/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -310,5 +310,6 @@
     "NASA航天资讯_https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up": "read",
     "OpenAI Blog_https://openai.com/index/biodefense-in-the-intelligence-age": "read",
-    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/": "read"
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/korea-ecosystem-2026/": "read"
 }
