@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/biodefense-in-the-intelligence-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
@@ -327,5 +327,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production": "read"
 }
