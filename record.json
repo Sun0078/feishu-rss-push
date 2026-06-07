@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/biodefense-in-the-intelligence-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -328,5 +328,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/ai-agents-are-learning-on-the-job-just-not-for-your-whole-team": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/": "read"
 }
