@@ -6,10 +6,10 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/biodefense-in-the-intelligence-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -329,5 +329,10 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/naver-ai-infrastructure": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/sk-hynix-ai-factory": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/": "read"
 }
