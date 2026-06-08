@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/biodefense-in-the-intelligence-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -334,5 +334,6 @@
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/naver-ai-infrastructure": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/sk-hynix-ai-factory": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/": "read"
 }
