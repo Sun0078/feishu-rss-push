@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/digging-back-in-time-in-the-uae/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/bigger-acvs-bring-direct-sales-vertical-ai-agarwal-defy/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/openai-submits-confidential-s-1",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -340,5 +340,13 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/digging-back-in-time-in-the-uae/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/bigger-acvs-bring-direct-sales-vertical-ai-agarwal-defy/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/bigger-acvs-bring-direct-sales-vertical-ai-agarwal-defy/": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-moon-mission-research-continues-on-earth/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/supersonic/": "read",
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information": "read",
+    "OpenAI Blog_https://openai.com/index/economic-research-exchange": "read",
+    "OpenAI Blog_https://openai.com/index/built-to-benefit-everyone-our-plan": "read",
+    "OpenAI Blog_https://openai.com/index/openai-submits-confidential-s-1": "read"
 }
