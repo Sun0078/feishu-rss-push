@@ -3,13 +3,13 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-june-5-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/biodefense-in-the-intelligence-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -335,5 +335,7 @@
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/sk-hynix-ai-factory": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/": "read"
 }
