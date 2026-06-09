@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -348,5 +348,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information": "read",
     "OpenAI Blog_https://openai.com/index/economic-research-exchange": "read",
     "OpenAI Blog_https://openai.com/index/built-to-benefit-everyone-our-plan": "read",
-    "OpenAI Blog_https://openai.com/index/openai-submits-confidential-s-1": "read"
+    "OpenAI Blog_https://openai.com/index/openai-submits-confidential-s-1": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/": "read"
 }
