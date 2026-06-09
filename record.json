@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/bigger-acvs-bring-direct-sales-vertical-ai-agarwal-defy/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/new-unicorn-startups-may-2026-openai-anthropic-ipos-spacex-robotics/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/openai-submits-confidential-s-1",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -349,5 +349,9 @@
     "OpenAI Blog_https://openai.com/index/economic-research-exchange": "read",
     "OpenAI Blog_https://openai.com/index/built-to-benefit-everyone-our-plan": "read",
     "OpenAI Blog_https://openai.com/index/openai-submits-confidential-s-1": "read",
-    "NASA航天资讯_https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/": "read"
+    "NASA航天资讯_https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/new-unicorn-startups-may-2026-openai-anthropic-ipos-spacex-robotics/": "read"
 }
