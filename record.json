@@ -3,11 +3,11 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/new-unicorn-startups-may-2026-openai-anthropic-ipos-spacex-robotics/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/apples-new-siri-ai-is-more-than-just-a-smarter-assistant-its-a-new-enterprise-app-layer",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/lseg",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -372,5 +372,9 @@
     "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/": "read",
-    "OpenAI Blog_https://openai.com/index/industrial-policy-for-the-intelligence-age": "read"
+    "OpenAI Blog_https://openai.com/index/industrial-policy-for-the-intelligence-age": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/": "read",
+    "OpenAI Blog_https://openai.com/index/lseg": "read"
 }
