@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/apples-new-siri-ai-is-more-than-just-a-smarter-assistant-its-a-new-enterprise-app-layer",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/ai-is-about-to-replace-the-interface-business-leaders-arent-ready",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/lseg",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -376,5 +376,12 @@
     "MIT科技评论_https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/": "read",
-    "OpenAI Blog_https://openai.com/index/lseg": "read"
+    "OpenAI Blog_https://openai.com/index/lseg": "read",
+    "NASA航天资讯_https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/": "read",
+    "NASA航天资讯_https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/ai-is-about-to-replace-the-interface-business-leaders-arent-ready": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/": "read"
 }
