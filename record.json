@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -395,5 +395,6 @@
     "OpenAI Blog_https://openai.com/index/prc-linked-influence-operations-ai-debates": "read",
     "OpenAI Blog_https://openai.com/index/openai-on-oracle-cloud": "read",
     "OpenAI Blog_https://openai.com/index/using-codex-to-simulate-black-holes": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/": "read"
 }
