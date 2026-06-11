@@ -7,7 +7,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-funding-2026-cerebras-matx-ayar-labs-ipos-nvda/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -396,5 +396,6 @@
     "OpenAI Blog_https://openai.com/index/openai-on-oracle-cloud": "read",
     "OpenAI Blog_https://openai.com/index/using-codex-to-simulate-black-holes": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/": "read",
-    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/": "read"
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/": "read",
+    "OpenAI Blog_https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem": "read"
 }
