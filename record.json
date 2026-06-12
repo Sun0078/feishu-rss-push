@@ -1,11 +1,11 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/ipo-window-liquid-money-ma-schroder-mgv/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/preply",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/",
@@ -426,5 +426,11 @@
     "OpenAI Blog_https://openai.com/index/openai-to-acquire-ona": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-stockholder-meeting-set-for-june-24-individuals-can-participate-online": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/": "read",
-    "OpenAI Blog_https://openai.com/index/preply": "read"
+    "OpenAI Blog_https://openai.com/index/preply": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/": "read"
 }
