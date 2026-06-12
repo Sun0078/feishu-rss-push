@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/preply",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/",
     "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-stockholder-meeting-set-for-june-24-individuals-can-participate-online",
@@ -432,5 +432,9 @@
     "MIT科技评论_https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/black-eye-galaxy/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/data/pixelrag-beats-text-parsers-on-accuracy-and-cuts-ai-agent-token-costs-10x": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code": "read"
 }
