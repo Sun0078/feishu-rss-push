@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-biotech-healthcare-ninjaone-leads/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/mcp-solved-tool-calling-a2a-solved-coordination-what-solves-transport",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/academy-courses-applying-ai-at-work",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
@@ -442,5 +442,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out": "read",
     "OpenAI Blog_https://openai.com/index/academy-courses-applying-ai-at-work": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/mcp-solved-tool-calling-a2a-solved-coordination-what-solves-transport": "read"
 }
