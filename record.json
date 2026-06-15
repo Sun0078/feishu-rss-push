@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/saas/rewriting-pitch-playbook-venture-ai-startup-nikkhoo-navigate/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/mcp-solved-tool-calling-a2a-solved-coordination-what-solves-transport",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/introducing-openai-partner-network",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
@@ -448,5 +448,16 @@
     "MIT科技评论_https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/saas/rewriting-pitch-playbook-venture-ai-startup-nikkhoo-navigate/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/saas/rewriting-pitch-playbook-venture-ai-startup-nikkhoo-navigate/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/": "read",
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/nssc/metrics/": "read",
+    "NASA航天资讯_https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/": "read",
+    "NASA航天资讯_https://www.nasa.gov/general/frontiers-forum-speaker-series/": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/attackers-scale-deception-with-ai-defenders-need-truth-at-machine-speed": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them": "read"
 }
