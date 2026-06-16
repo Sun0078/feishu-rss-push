@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/saas/rewriting-pitch-playbook-venture-ai-startup-nikkhoo-navigate/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/ai-saas-hardware-energy-deep-tech-qa-barrett-playground-global/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/introducing-openai-partner-network",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/",
@@ -466,5 +466,7 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization": "read",
     "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/": "read",
-    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/": "read"
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/ai-saas-hardware-energy-deep-tech-qa-barrett-playground-global/": "read"
 }
