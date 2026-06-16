@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/ai-saas-hardware-energy-deep-tech-qa-barrett-playground-global/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/introducing-openai-partner-network",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -468,5 +468,12 @@
     "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/nebraskas-wide-rolling-domain/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/ai-saas-hardware-energy-deep-tech-qa-barrett-playground-global/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/ai-saas-hardware-energy-deep-tech-qa-barrett-playground-global/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/aurora-australis-7/": "read",
+    "NASA航天资讯_https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/": "read",
+    "NASA航天资讯_https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/": "read"
 }
