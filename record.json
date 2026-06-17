@@ -1,13 +1,13 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/black-founders-turned-investors-bethea-woodruff/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/deployment-simulation",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/ai-chemist-improves-reaction",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -495,5 +495,13 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/black-founders-turned-investors-bethea-woodruff/": "read",
     "NASA航天资讯_https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/": "read",
-    "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/": "read"
+    "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm": "read",
+    "NASA航天资讯_https://science.nasa.gov/get-involved/citizen-science/search-for-hidden-cosmic-companions-in-suns-backyard/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation": "read",
+    "OpenAI Blog_https://openai.com/index/introducing-life-sci-bench": "read",
+    "OpenAI Blog_https://openai.com/index/ai-chemist-improves-reaction": "read"
 }
