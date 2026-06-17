@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ma/spcx-acquires-ai-coding-cursor-largest-startup-ma-deal-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/black-founders-turned-investors-bethea-woodruff/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/deployment-simulation",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/co-scientist-research-problems/",
@@ -490,5 +490,8 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/low-water-at-san-carlos-reservoir/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/black-founders-turned-investors-bethea-woodruff/": "read"
 }
