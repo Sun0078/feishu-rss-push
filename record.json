@@ -1,13 +1,13 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/stages-of-star-formation/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/seed/new-defensibility-rules-qa-taneja-att-ventures/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/ai-chemist-improves-reaction",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/diagnose-rare-childhood-diseases",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -515,5 +515,9 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/boardroom-blind-spot-success-hides-ai-disruption-sagie/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/seed/new-defensibility-rules-qa-taneja-att-ventures/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/stages-of-star-formation/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration": "read",
+    "OpenAI Blog_https://openai.com/index/diagnose-rare-childhood-diseases": "read"
 }
