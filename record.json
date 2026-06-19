@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-defense-startup-ai-odyssey-leads/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/chatgpt-enterprise-spend-controls",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
@@ -539,5 +539,7 @@
     "MIT科技评论_https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes": "read"
 }
