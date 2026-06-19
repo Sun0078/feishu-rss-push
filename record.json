@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-mission-to-study-space-weather-impacts-of-earths-atmosphere/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -533,5 +533,7 @@
     "VentureBeat-新兴科技_https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises": "read",
     "OpenAI Blog_https://openai.com/index/improving-health-intelligence-in-chatgpt": "read",
     "OpenAI Blog_https://openai.com/index/chatgpt-enterprise-spend-controls": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ferc-large-load-interconnection/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ferc-large-load-interconnection/": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/": "read"
 }
