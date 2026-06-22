@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/tropical-storm-arthur/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-defense-startup-ai-odyssey-leads/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/saas/growing-agentic-ai-market-desilva-lateral/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
@@ -543,5 +543,10 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes": "read",
     "OpenAI Blog_https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/europe-seed-investor-seedcamp-closes-two-funds/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/robotics/startup-venture-funding-surges-2026-data/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/saas/growing-agentic-ai-market-desilva-lateral/": "read"
 }
