@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -542,5 +542,6 @@
     "MIT科技评论_https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes": "read",
-    "OpenAI Blog_https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "read"
+    "OpenAI Blog_https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/": "read"
 }
