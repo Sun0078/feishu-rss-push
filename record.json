@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/policy-regulation/fed-chair-greenspan-dot-com-legacy/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/codex-maxxing-long-running-work",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/omio",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -576,5 +576,8 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/marketing-digital-ad-tracker-appsflyer-lands-1b/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/policy-regulation/fed-chair-greenspan-dot-com-legacy/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away": "read",
-    "OpenAI Blog_https://openai.com/index/codex-maxxing-long-running-work": "read"
+    "OpenAI Blog_https://openai.com/index/codex-maxxing-long-running-work": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/rising-waters-swamp-lake-naivasha/": "read",
+    "OpenAI Blog_https://openai.com/index/omio": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/": "read"
 }
