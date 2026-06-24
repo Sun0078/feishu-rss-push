@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -612,5 +612,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license": "read",
     "OpenAI Blog_https://openai.com/index/gpt-5-immunology-mystery": "read",
     "OpenAI Blog_https://openai.com/index/helping-build-shared-standards-for-advanced-ai": "read",
-    "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/": "read"
+    "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/": "read"
 }
