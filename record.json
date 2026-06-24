@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/hard-tech-infrastructure-moat-schroepfer-gigascale/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
@@ -615,5 +615,8 @@
     "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/": "read",
-    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/": "read"
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/hard-tech-infrastructure-moat-schroepfer-gigascale/": "read"
 }
