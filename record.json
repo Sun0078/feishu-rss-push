@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -613,5 +613,7 @@
     "OpenAI Blog_https://openai.com/index/gpt-5-immunology-mystery": "read",
     "OpenAI Blog_https://openai.com/index/helping-build-shared-standards-for-advanced-ai": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/playing-the-moon-game/": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4927-4933-lets-drive-to-that-smooth-area/": "read"
 }
