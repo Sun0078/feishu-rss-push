@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -639,5 +639,7 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/": "read"
 }
