@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/previewing-gpt-5-6-sol",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
@@ -675,5 +675,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m": "read",
-    "OpenAI Blog_https://openai.com/index/previewing-gpt-5-6-sol": "read"
+    "OpenAI Blog_https://openai.com/index/previewing-gpt-5-6-sol": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers": "read"
 }
