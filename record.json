@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-sba-announce-new-initiative-to-scale-american-space-economy/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -694,5 +694,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/": "read",
+    "NASA航天资讯_https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/": "read"
 }
