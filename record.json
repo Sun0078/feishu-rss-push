@@ -1,11 +1,11 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/data-billion-dollar-startup-exits-ma-ipo-spcx-q2-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/data-funding-solutions-ai-landgren-gilion/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
@@ -696,5 +696,9 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/": "read",
     "NASA航天资讯_https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips": "read",
+    "NASA航天资讯_https://www.nasa.gov/general/ames-stars-of-the-month-july-2026/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/ma-ai-semiconductors-hardware-qa-munichiello-gvs/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/data-funding-solutions-ai-landgren-gilion/": "read"
 }
