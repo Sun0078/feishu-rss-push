@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/data-billion-dollar-startup-exits-ma-ipo-spcx-q2-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
@@ -695,5 +695,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/": "read",
-    "NASA航天资讯_https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/": "read"
+    "NASA航天资讯_https://science.nasa.gov/learning-resources/science-activation/northwest-earth-and-space-science-pathways-project-celebrates-student-innovation-through-roads-from-earth-to-venus-national-challenge/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips": "read"
 }
