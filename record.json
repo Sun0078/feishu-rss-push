@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/startups/omnea-funding-employees-future-founders-freeman/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/",
@@ -725,5 +725,6 @@
     "OpenAI Blog_https://openai.com/index/how-chatgpt-adoption-has-expanded": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/80m-repeat-founders-fund-europe-na-tapestry/": "read"
 }
