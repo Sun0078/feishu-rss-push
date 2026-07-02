@@ -1,12 +1,12 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/",
@@ -751,5 +751,11 @@
     "NASA航天资讯_https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/good-morning-earth/": "read",
+    "NASA航天资讯_https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99": "read"
 }
