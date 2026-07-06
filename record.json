@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-industry-input-on-second-phase-of-commercial-space-stations/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/startup-funding-clean-energy-exits-ipo-q2-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
@@ -778,5 +778,8 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/open-models-icml-2026/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/open-models-icml-2026/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness": "read"
 }
