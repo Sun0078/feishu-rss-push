@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -781,5 +781,6 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/open-models-icml-2026/": "read",
     "NASA航天资讯_https://www.nasa.gov/image-article/nasa-takes-flight-for-americas-250th/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/": "read"
 }
