@@ -3,13 +3,13 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/the-world-cup-from-250-miles-up/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -786,5 +786,8 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/": "read"
 }
