@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/australian-payments-plus",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
@@ -805,5 +805,9 @@
     "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/saas/metrics-unit-economics-questions-sagie/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/ai-has-collapsed-the-cyber-response-window-resilience-now-starts-before-the-attack": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message": "read"
 }
