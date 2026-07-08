@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -802,5 +802,6 @@
     "OpenAI Blog_https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai": "read",
     "OpenAI Blog_https://openai.com/index/australian-payments-plus": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites/": "read",
-    "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/": "read"
+    "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/": "read"
 }
