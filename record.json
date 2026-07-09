@@ -1,15 +1,15 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/government-national-security-partnerships",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -823,5 +823,11 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/data-funding-ai-ma-up-europe-q2-2026/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/": "read"
 }
