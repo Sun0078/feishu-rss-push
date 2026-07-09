@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -820,5 +820,6 @@
     "OpenAI Blog_https://openai.com/index/k-12-educators-practical-skills": "read",
     "OpenAI Blog_https://openai.com/index/separating-signal-from-noise-coding-evaluations": "read",
     "OpenAI Blog_https://openai.com/index/government-national-security-partnerships": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/": "read"
 }
