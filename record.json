@@ -1,9 +1,9 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/waxing-gibbous-moon-6/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
@@ -845,5 +845,7 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare/": "read",
-    "OpenAI Blog_https://openai.com/index/deutsche-telekom": "read"
+    "OpenAI Blog_https://openai.com/index/deutsche-telekom": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/waxing-gibbous-moon-6/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/": "read"
 }
