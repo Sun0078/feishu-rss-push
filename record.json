@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/waxing-gibbous-moon-6/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/deutsche-telekom",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
@@ -847,5 +847,14 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/interesting-startup-deals-ai-defense-tech-healthcare/": "read",
     "OpenAI Blog_https://openai.com/index/deutsche-telekom": "read",
     "NASA航天资讯_https://www.nasa.gov/image-article/waxing-gibbous-moon-6/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasa-photographer-captures-images-from-f-18-over-washington/": "read",
+    "NASA航天资讯_https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-help-zooniverse-reach-1-billion-classifications/": "read",
+    "NASA航天资讯_https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/early-career-faculty-ecf-2025-awards/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one": "read"
 }
