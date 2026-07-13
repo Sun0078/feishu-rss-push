@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/deutsche-telekom",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
@@ -858,5 +858,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/": "read"
 }
