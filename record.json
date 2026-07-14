@@ -3,10 +3,10 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
     "https://openai.com/blog/rss.xml": "https://openai.com/academy/getting-started",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
@@ -872,5 +872,8 @@
     "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/fans-of-the-arctic/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis": "read"
 }
