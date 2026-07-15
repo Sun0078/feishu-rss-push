@@ -1,9 +1,9 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/get-involved/citizen-science/volunteer-measures-record-louisiana-rainfall/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
@@ -889,5 +889,8 @@
     "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/corporate-vc-splitting-paypal-fidelity-brotman-alpha/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/japan-ecosystem-2026/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/japan-ecosystem-2026/": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/": "read",
+    "NASA航天资讯_https://science.nasa.gov/get-involved/citizen-science/volunteer-measures-record-louisiana-rainfall/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/": "read"
 }
