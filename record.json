@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/managing-ai-investments-in-agentic-era",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
@@ -892,5 +892,6 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/japan-ecosystem-2026/": "read",
     "NASA航天资讯_https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/": "read",
     "NASA航天资讯_https://science.nasa.gov/get-involved/citizen-science/volunteer-measures-record-louisiana-rainfall/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026": "read"
 }
