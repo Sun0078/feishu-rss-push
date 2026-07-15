@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -884,5 +884,7 @@
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/": "read",
     "OpenAI Blog_https://openai.com/index/managing-ai-investments-in-agentic-era": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/": "read"
 }
