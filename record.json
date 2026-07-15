@@ -5,11 +5,11 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/managing-ai-investments-in-agentic-era",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -886,5 +886,8 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/heat-dome-broils-the-western-u-s/": "read",
-    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/": "read"
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4947-4953-gale-crater-then-and-now/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/corporate-vc-splitting-paypal-fidelity-brotman-alpha/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/japan-ecosystem-2026/": "read"
 }
