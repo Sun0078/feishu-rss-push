@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier",
+    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -913,5 +913,6 @@
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure": "read"
 }
