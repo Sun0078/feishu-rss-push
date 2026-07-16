@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ma/stripe-acquisition-pace-accelerates-paypal/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
@@ -914,5 +914,8 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/ontario-wildfire-smoke-moves-east/": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/": "read"
 }
