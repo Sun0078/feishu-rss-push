@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/why-teens-deserve-access-safe-ai",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
@@ -933,5 +933,8 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems": "read",
     "OpenAI Blog_https://openai.com/index/cars24": "read",
     "OpenAI Blog_https://openai.com/index/why-teens-deserve-access-safe-ai": "read",
-    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/": "read"
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/a-tide-fueled-trove-of-biodiversity-in-guinea-bissau/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data/": "read"
 }
