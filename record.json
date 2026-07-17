@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/a-scorecard-for-the-ai-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
@@ -940,5 +940,16 @@
     "MIT科技评论_https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/": "read",
     "OpenAI Blog_https://openai.com/index/a-scorecard-for-the-ai-age": "read",
     "NASA航天资讯_https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-de-comunicacion-al-lanzamiento-del-telescopio-espacial-roman/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/": "read",
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/": "read",
+    "NASA航天资讯_https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do": "read"
 }
