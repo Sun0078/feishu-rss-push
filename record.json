@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/a-scorecard-for-the-ai-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -958,5 +958,12 @@
     "MIT科技评论_https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/our-first-view-of-the-surface-of-mars/": "read",
+    "NASA航天资讯_https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/ai-confidence-just-dropped-17-points-in-six-months-thats-actually-great-news": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/siggraph-news-2026/": "read"
 }
