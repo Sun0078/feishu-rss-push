@@ -3,13 +3,13 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/a-scorecard-for-the-ai-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -955,5 +955,8 @@
     "NASA航天资讯_https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/": "read",
     "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/": "read"
 }
