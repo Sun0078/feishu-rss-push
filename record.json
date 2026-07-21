@@ -1,9 +1,9 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/atlassian-why-ai-speeds-up-employees-but-not-organizations",
@@ -978,5 +978,8 @@
     "MIT科技评论_https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/ai/saas-deep-tech-startup-qa-docter-dell-technologies-capital/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/atlassian-why-ai-speeds-up-employees-but-not-organizations": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/atlassian-why-ai-speeds-up-employees-but-not-organizations": "read",
+    "NASA航天资讯_https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/": "read",
+    "NASA航天资讯_https://www.nasa.gov/general/establishing-crew-exposure-limits-of-martian-dust/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/": "read"
 }
