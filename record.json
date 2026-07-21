@@ -3,10 +3,10 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/atlassian-why-ai-speeds-up-employees-but-not-organizations",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/safety-alignment-long-horizon-models",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
@@ -974,5 +974,9 @@
     "VentureBeat-新兴科技_https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy": "read",
     "OpenAI Blog_https://openai.com/index/safety-alignment-long-horizon-models": "read",
-    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/": "read"
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/saas-deep-tech-startup-qa-docter-dell-technologies-capital/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/atlassian-why-ai-speeds-up-employees-but-not-organizations": "read"
 }
