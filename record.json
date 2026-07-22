@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -1002,5 +1002,6 @@
     "OpenAI Blog_https://openai.com/index/introducing-chatgpt-small-business-program": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-rubin/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/wistron-manufacturing-texas/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/wistron-manufacturing-texas/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/": "read"
 }
