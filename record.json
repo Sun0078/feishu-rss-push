@@ -3,12 +3,12 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/new-unicorn-board-startups-exits-ai-semiconductors-june-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/billion-dollar-plus-round-counts-rising-ai-fintech-healthcare-h1-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/ntt-data",
-    "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
+    "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
@@ -1029,5 +1029,9 @@
     "OpenAI Blog_https://openai.com/index/how-news-organizations-are-using-ai": "read",
     "OpenAI Blog_https://openai.com/index/ntt-data": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/": "read",
-    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/": "read"
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/on-prem-systems-vs-cloud-security-sagie/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/billion-dollar-plus-round-counts-rising-ai-fintech-healthcare-h1-2026/": "read",
+    "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/": "read"
 }
