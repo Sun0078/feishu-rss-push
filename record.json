@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -1028,5 +1028,6 @@
     "OpenAI Blog_https://openai.com/index/advancing-the-next-era-of-national-science": "read",
     "OpenAI Blog_https://openai.com/index/how-news-organizations-are-using-ai": "read",
     "OpenAI Blog_https://openai.com/index/ntt-data": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/olympic-mountain-glory/": "read"
 }
