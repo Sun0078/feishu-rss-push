@@ -7,9 +7,9 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/new-unicorn-board-startups-exits-ai-semiconductors-june-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/ntt-data",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1026,5 +1026,7 @@
     "VentureBeat-新兴科技_https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now": "read",
     "OpenAI Blog_https://openai.com/index/advancing-the-next-era-of-national-science": "read",
-    "OpenAI Blog_https://openai.com/index/how-news-organizations-are-using-ai": "read"
+    "OpenAI Blog_https://openai.com/index/how-news-organizations-are-using-ai": "read",
+    "OpenAI Blog_https://openai.com/index/ntt-data": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/": "read"
 }
