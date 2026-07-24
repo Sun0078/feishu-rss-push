@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/billion-dollar-plus-round-counts-rising-ai-fintech-healthcare-h1-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/health-in-chatgpt",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
@@ -1055,5 +1055,7 @@
     "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4954-4960-celebrating-our-rover-engineers-past-and-present/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/biggest-talent-challenge-resilience-vaidya-crafting/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026/": "read"
 }
