@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/health-in-chatgpt",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1067,5 +1067,7 @@
     "MIT科技评论_https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout": "read"
 }
