@@ -5,11 +5,11 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/schneider-ai-robotics-energy-qa-chaturvedy-se-ventures/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/health-in-chatgpt",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1072,5 +1072,8 @@
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout": "read",
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-cpu-eda/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-cpu-eda/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/schneider-ai-robotics-energy-qa-chaturvedy-se-ventures/": "read",
+    "OpenAI Blog_https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/open-secure-ai-alliance/": "read"
 }
