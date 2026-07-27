@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/hubble/nasas-hubble-shows-star-formation-in-andromeda-galaxy-winding-down/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/schneider-ai-robotics-energy-qa-chaturvedy-se-ventures/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
@@ -1083,5 +1083,15 @@
     "MIT科技评论_https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/swift/nasas-swift-sees-wandering-mega-black-hole-shredding-star/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/": "read",
+    "NASA航天资讯_https://science.nasa.gov/science-research/heliophysics/nasa-science-soars-during-august-total-solar-eclipse/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-space-station-mission/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/new-ransomware-targets-ai-model-weights-and-cant-even-collect-the-ransom": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs": "read"
 }
