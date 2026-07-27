@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/health-in-chatgpt",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1070,5 +1070,7 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout": "read",
-    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/": "read"
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-cpu-eda/": "read"
 }
