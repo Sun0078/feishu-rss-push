@@ -3,10 +3,10 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/schneider-ai-robotics-energy-qa-chaturvedy-se-ventures/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership",
@@ -1095,5 +1095,8 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know": "read",
-    "NASA航天资讯_https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/": "read"
+    "NASA航天资讯_https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents": "read"
 }
