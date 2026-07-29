@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/era-middle-market-contenders-bernstein-ftv/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/scientific-computing-agentic-ai",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
@@ -1111,5 +1111,6 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/era-middle-market-contenders-bernstein-ftv/": "read"
 }
