@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/era-middle-market-contenders-bernstein-ftv/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/sales-marketing/centralize-enterprise-sales-gtm-startup-funding-slack-meta-alums/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/infrastructure/bright-machines-says-its-new-hybrid-robot-cell-could-help-solve-a-major-ai-infrastructure-bottleneck",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/scientific-computing-agentic-ai",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
@@ -1112,5 +1112,10 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/sizing-up-the-sargassum-belt/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/era-middle-market-contenders-bernstein-ftv/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/era-middle-market-contenders-bernstein-ftv/": "read",
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-ray-williams/": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/webb/nasa-webb-explores-family-tree-of-newly-discovered-distant-objects/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/sales-marketing/centralize-enterprise-sales-gtm-startup-funding-slack-meta-alums/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/infrastructure/bright-machines-says-its-new-hybrid-robot-cell-could-help-solve-a-major-ai-infrastructure-bottleneck": "read"
 }
