@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -1134,5 +1134,7 @@
     "OpenAI Blog_https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": "read",
     "OpenAI Blog_https://openai.com/index/chatgpt-for-academic-researchers": "read",
     "OpenAI Blog_https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/new-zealands-southern-wilderness/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/": "read"
 }
