@@ -1,13 +1,13 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/building-abundant-intelligence",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1164,5 +1164,13 @@
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/": "read",
     "OpenAI Blog_https://openai.com/index/unive": "read",
-    "OpenAI Blog_https://openai.com/index/advancing-responsible-ai-across-europe": "read"
+    "OpenAI Blog_https://openai.com/index/advancing-responsible-ai-across-europe": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/": "read",
+    "OpenAI Blog_https://openai.com/index/building-abundant-intelligence": "read"
 }
