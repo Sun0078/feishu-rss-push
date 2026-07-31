@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/building-abundant-intelligence",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1172,5 +1172,14 @@
     "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/seed/startup-funding-trends-2026-proptech-robotics-cancer-space-tech/": "read",
-    "OpenAI Blog_https://openai.com/index/building-abundant-intelligence": "read"
+    "OpenAI Blog_https://openai.com/index/building-abundant-intelligence": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/": "read",
+    "NASA航天资讯_https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/": "read",
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap": "read",
+    "OpenAI Blog_https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": "read"
 }
