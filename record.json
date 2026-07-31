@@ -6,8 +6,8 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/avatarin",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1156,5 +1156,8 @@
     "VentureBeat-新兴科技_https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost": "read",
-    "OpenAI Blog_https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": "read"
+    "OpenAI Blog_https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations": "read",
+    "OpenAI Blog_https://openai.com/index/avatarin": "read"
 }
