@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -1159,5 +1159,7 @@
     "OpenAI Blog_https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations": "read",
-    "OpenAI Blog_https://openai.com/index/avatarin": "read"
+    "OpenAI Blog_https://openai.com/index/avatarin": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/": "read"
 }
