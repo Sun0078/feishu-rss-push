@@ -7,7 +7,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/ten-advances-in-mathematics",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1183,5 +1183,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap": "read",
     "OpenAI Blog_https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": "read",
     "NASA航天资讯_https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/": "read",
+    "OpenAI Blog_https://openai.com/index/ten-advances-in-mathematics": "read"
 }
