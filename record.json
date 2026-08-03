@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/ten-advances-in-mathematics",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
@@ -1190,5 +1190,13 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod/apod-2026-august-2-a-fire-rainbow-over-west-virginia/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/": "read",
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/": "read",
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/": "read",
+    "NASA航天资讯_https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents": "read"
 }
