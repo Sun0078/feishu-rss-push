@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/ten-advances-in-mathematics",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1198,5 +1198,9 @@
     "NASA航天资讯_https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/": "read",
+    "OpenAI Blog_https://openai.com/index/continuous-voice-interaction-with-gpt-live": "read"
 }
