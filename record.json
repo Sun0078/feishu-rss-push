@@ -7,7 +7,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/circles",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/apple-is-getting-this-wrong",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1205,5 +1205,6 @@
     "OpenAI Blog_https://openai.com/index/continuous-voice-interaction-with-gpt-live": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use": "read",
-    "OpenAI Blog_https://openai.com/index/circles": "read"
+    "OpenAI Blog_https://openai.com/index/circles": "read",
+    "OpenAI Blog_https://openai.com/index/apple-is-getting-this-wrong": "read"
 }
