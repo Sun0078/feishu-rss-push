@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/apple-is-getting-this-wrong",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
@@ -1206,5 +1206,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use": "read",
     "OpenAI Blog_https://openai.com/index/circles": "read",
-    "OpenAI Blog_https://openai.com/index/apple-is-getting-this-wrong": "read"
+    "OpenAI Blog_https://openai.com/index/apple-is-getting-this-wrong": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026/": "read"
 }
