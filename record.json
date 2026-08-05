@@ -3,7 +3,7 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/humans-in-space/commercial-space/nasa-will-attempt-to-observe-rocket-parts-lunar-impact/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
@@ -1228,5 +1228,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it": "read",
     "OpenAI Blog_https://openai.com/index/learn-teach-chatgpt-work-codex": "read",
     "OpenAI Blog_https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/": "read"
 }
