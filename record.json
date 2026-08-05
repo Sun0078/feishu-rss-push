@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/data-billion-dollar-rounds-set-global-funding-record-july-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
@@ -1229,5 +1229,7 @@
     "OpenAI Blog_https://openai.com/index/learn-teach-chatgpt-work-codex": "read",
     "OpenAI Blog_https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/strategies-enhancing-exit-value-acquisitions-sagie/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/educator-built-edtech-startup-ai-magicschool-kahn/": "read"
 }
