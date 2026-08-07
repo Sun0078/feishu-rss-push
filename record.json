@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -1258,5 +1258,12 @@
     "OpenAI Blog_https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/open-world-models-physical-ai/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/how-the-tide-turns-at-the-mouth-of-the-elbe/": "read",
+    "NASA航天资讯_https://www.nasa.gov/organizations/ogc/job-opportunities-nasa-office-of-the-general-counsel/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/taking-flight-to-prepare-for-space/": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tom-percy/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/antenna-testing-for-nasas-skyfall-mission/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/": "read",
+    "NASA航天资讯_https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/": "read"
 }
