@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/y-combinator-repeat-founders-numbers-grow-epstein-callaway/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/hsp-gruppe",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
@@ -1267,5 +1267,6 @@
     "NASA航天资讯_https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/": "read",
     "NASA航天资讯_https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/": "read",
     "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/johnson/nasas-lunar-development-and-test-facility-prepares-artemis-hardware-for-moon/": "read",
-    "OpenAI Blog_https://openai.com/index/hsp-gruppe": "read"
+    "OpenAI Blog_https://openai.com/index/hsp-gruppe": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/": "read"
 }
