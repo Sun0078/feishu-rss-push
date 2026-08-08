@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1280,5 +1280,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks": "read",
     "OpenAI Blog_https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/": "read"
 }
