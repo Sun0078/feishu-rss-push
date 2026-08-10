@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/model-ml",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/responsible-ai-infrastructure-texas",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1292,5 +1292,9 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority": "read",
-    "OpenAI Blog_https://openai.com/index/model-ml": "read"
+    "OpenAI Blog_https://openai.com/index/model-ml": "read",
+    "NASA航天资讯_https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next": "read",
+    "OpenAI Blog_https://openai.com/index/responsible-ai-infrastructure-texas": "read"
 }
