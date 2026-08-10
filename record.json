@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-billion-dollar-raises-manufacturing-energy-ai/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
@@ -1285,5 +1285,7 @@
     "NASA航天资讯_https://science.nasa.gov/image-article/apod/apod-2026-august-6-rubins-cosmos-field/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/public/ai-ipo-results-lp-liquidity-gershfeld-flint/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/": "read"
 }
