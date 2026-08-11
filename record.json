@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/building-an-ai-native-finance-function",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1321,5 +1321,10 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/": "read"
 }
