@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/building-an-ai-native-finance-function",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
@@ -1313,5 +1313,7 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/bountiful-roebuck-bay/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/": "read",
-    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/": "read"
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/native-not-sprinkle-business-growth-change-morse-strattam/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/": "read"
 }
