@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/testing-ads-in-chatgpt",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
@@ -1337,5 +1337,10 @@
     "OpenAI Blog_https://openai.com/index/testing-ads-in-chatgpt": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/": "read",
-    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/": "read"
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs": "read"
 }
