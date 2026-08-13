@@ -3,7 +3,7 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
@@ -1362,5 +1362,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue": "read",
     "OpenAI Blog_https://openai.com/index/ringcentral": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-13-total-solar-eclipse-over-spain/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/": "read"
 }
