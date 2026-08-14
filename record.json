@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod/apod-2026-august-14-total-solar-eclipse-from-greenland/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1390,5 +1390,12 @@
     "MIT科技评论_https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/": "read",
+    "NASA航天资讯_https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/": "read",
+    "NASA航天资讯_https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/": "read",
+    "NASA航天资讯_https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/": "read"
 }
