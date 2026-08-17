@@ -5,9 +5,9 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1406,5 +1406,7 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-17-a-golden-corona-eclipse/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/": "read",
+    "OpenAI Blog_https://openai.com/index/new-policy-ideas-for-the-intelligence-age": "read"
 }
