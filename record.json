@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/the-defenders-window",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
@@ -1415,5 +1415,6 @@
     "NASA航天资讯_https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/": "read",
     "OpenAI Blog_https://openai.com/index/openai-joins-ports-pike-project": "read",
-    "OpenAI Blog_https://openai.com/index/the-defenders-window": "read"
+    "OpenAI Blog_https://openai.com/index/the-defenders-window": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale": "read"
 }
