@@ -5,9 +5,9 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/the-defenders-window",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/partnering-with-codeai",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1433,5 +1433,8 @@
     "MIT科技评论_https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/": "read",
+    "OpenAI Blog_https://openai.com/index/chatgpt-for-teens": "read",
+    "OpenAI Blog_https://openai.com/index/partnering-with-codeai": "read"
 }
