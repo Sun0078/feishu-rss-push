@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-4975-4981-happy-14th-landing-anniversary/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/general/nasa-glenn-inflight-research/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/partnering-with-codeai",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
@@ -1438,5 +1438,7 @@
     "OpenAI Blog_https://openai.com/index/chatgpt-for-teens": "read",
     "OpenAI Blog_https://openai.com/index/partnering-with-codeai": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x": "read",
+    "NASA航天资讯_https://www.nasa.gov/general/nasa-glenn-inflight-research/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters": "read"
 }
