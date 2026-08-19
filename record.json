@@ -7,7 +7,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/nvidia/chatgpt-work",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/chatgpt-ads-expands-across-europe",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1455,5 +1455,6 @@
     "OpenAI Blog_https://openai.com/index/nvidia/chatgpt-work": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/": "read",
-    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/": "read"
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/": "read",
+    "OpenAI Blog_https://openai.com/index/chatgpt-ads-expands-across-europe": "read"
 }
