@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/nvidia/chatgpt-work",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
@@ -1452,5 +1452,6 @@
     "OpenAI Blog_https://openai.com/index/strengthening-democratic-oversight-in-national-security": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally": "read",
-    "OpenAI Blog_https://openai.com/index/nvidia/chatgpt-work": "read"
+    "OpenAI Blog_https://openai.com/index/nvidia/chatgpt-work": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens": "read"
 }
