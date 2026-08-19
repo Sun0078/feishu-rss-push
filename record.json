@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/chatgpt-ads-expands-across-europe",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
@@ -1457,5 +1457,7 @@
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/": "read",
     "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/": "read",
     "OpenAI Blog_https://openai.com/index/chatgpt-ads-expands-across-europe": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/": "read"
 }
