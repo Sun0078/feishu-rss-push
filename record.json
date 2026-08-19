@@ -3,7 +3,7 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/johnson/behind-the-lens-meet-nasa-johnsons-photographers/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens",
@@ -1459,5 +1459,6 @@
     "OpenAI Blog_https://openai.com/index/chatgpt-ads-expands-across-europe": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/": "read"
 }
