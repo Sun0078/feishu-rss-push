@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1477,5 +1477,6 @@
     "MIT科技评论_https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/": "read"
 }
