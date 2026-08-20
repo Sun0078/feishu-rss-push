@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
@@ -1478,5 +1478,6 @@
     "MIT科技评论_https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed": "read"
 }
