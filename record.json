@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
@@ -1475,5 +1475,6 @@
     "NASA航天资讯_https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/": "read"
 }
