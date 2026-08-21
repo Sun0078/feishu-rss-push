@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/introducing-ai-futures",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
@@ -1498,5 +1498,6 @@
     "NASA航天资讯_https://science.nasa.gov/earth/europes-scorching-summer/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/": "read"
 }
