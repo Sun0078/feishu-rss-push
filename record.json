@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/introducing-ai-futures",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
@@ -1493,5 +1493,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time": "read",
     "OpenAI Blog_https://openai.com/index/stampli": "read",
-    "OpenAI Blog_https://openai.com/index/introducing-ai-futures": "read"
+    "OpenAI Blog_https://openai.com/index/introducing-ai-futures": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat": "read"
 }
