@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/smallsat-2026/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/europes-scorching-summer/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -1494,5 +1494,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time": "read",
     "OpenAI Blog_https://openai.com/index/stampli": "read",
     "OpenAI Blog_https://openai.com/index/introducing-ai-futures": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/europes-scorching-summer/": "read"
 }
