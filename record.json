@@ -1,12 +1,12 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/europes-scorching-summer/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/introducing-ai-futures",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
@@ -1500,5 +1500,11 @@
     "MIT科技评论_https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/webb-opens-treasure-chest/": "read",
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/": "read",
+    "NASA航天资讯_https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs": "read"
 }
