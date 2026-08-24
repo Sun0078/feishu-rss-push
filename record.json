@@ -3,10 +3,10 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/introducing-ai-futures",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
@@ -1514,5 +1514,7 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/what-lake-bonneville-left-behind/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech/": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted": "read"
 }
