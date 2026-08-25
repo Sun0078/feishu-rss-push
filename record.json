@@ -3,11 +3,11 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/gpt-5-6-in-kiro",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1530,5 +1530,8 @@
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/": "read",
+    "OpenAI Blog_https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": "read"
 }
