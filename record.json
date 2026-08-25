@@ -7,7 +7,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/liquidity/ai-ipo-ma-secondaries-haslett-equityzen/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/jalapeno-first-results",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1537,5 +1537,6 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/startups/bootstrapped-self-funded-business-ai-relevancy-desilva-lateral/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/liquidity/ai-ipo-ma-secondaries-haslett-equityzen/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs": "read",
+    "OpenAI Blog_https://openai.com/index/jalapeno-first-results": "read"
 }
