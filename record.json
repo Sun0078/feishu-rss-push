@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -1562,5 +1562,6 @@
     "OpenAI Blog_https://openai.com/index/introducing-admin-plugin": "read",
     "OpenAI Blog_https://openai.com/index/the-full-stack-behind-abundant-intelligence": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/": "read"
 }
