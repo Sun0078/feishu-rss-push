@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/liquidity/ai-ipo-ma-secondaries-haslett-equityzen/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/legal-tech-startuo-funding-down-ai-acquisitions-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/loveholidays",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
@@ -1567,5 +1567,6 @@
     "MIT科技评论_https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/": "read",
-    "OpenAI Blog_https://openai.com/index/loveholidays": "read"
+    "OpenAI Blog_https://openai.com/index/loveholidays": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/legal-tech-startuo-funding-down-ai-acquisitions-2026/": "read"
 }
