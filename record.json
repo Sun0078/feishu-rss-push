@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1607,5 +1607,10 @@
     "MIT科技评论_https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them": "read",
     "OpenAI Blog_https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-28-the-sky-turns-above-paranal/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/": "read",
+    "OpenAI Blog_https://openai.com/index/supporting-next-generation-ai-startups-thailand": "read"
 }
