@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1621,5 +1621,7 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag": "read",
-    "VentureBeat-新兴科技_https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents": "read"
+    "VentureBeat-新兴科技_https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/": "read",
+    "OpenAI Blog_https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": "read"
 }
