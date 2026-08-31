@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858",
+    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1630,5 +1630,11 @@
     "NASA航天资讯_https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-launches/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior": "read",
+    "OpenAI Blog_https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms": "read"
 }
