@@ -6,7 +6,7 @@
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858",
@@ -1627,5 +1627,7 @@
     "NASA航天资讯_https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/": "read",
     "NASA航天资讯_https://science.nasa.gov/photojournal/panorama-showcasing-the-34-meter-antennas-of-the-dsns-goldstone-complex/": "read",
     "NASA航天资讯_https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/": "read",
-    "NASA航天资讯_https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/": "read"
+    "NASA航天资讯_https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway": "read"
 }
