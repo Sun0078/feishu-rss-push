@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/",
-    "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/polimill",
+    "https://venturebeat.com/feed/": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1641,5 +1641,9 @@
     "NASA航天资讯_https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/": "read",
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break": "read",
-    "OpenAI Blog_https://openai.com/index/polimill": "read"
+    "OpenAI Blog_https://openai.com/index/polimill": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/iceberg-from-petermann-glacier-speeds-away/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-1-a-plane-lunar-eclipse/": "read",
+    "VentureBeat-新兴科技_https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises": "read",
+    "OpenAI Blog_https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": "read"
 }
