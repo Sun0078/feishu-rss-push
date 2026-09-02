@@ -7,7 +7,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/path-to-astra",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/gilbert-tobin",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1664,5 +1664,6 @@
     "VentureBeat-新兴科技_https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer": "read",
     "OpenAI Blog_https://openai.com/index/path-to-astra": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/": "read",
+    "OpenAI Blog_https://openai.com/index/gilbert-tobin": "read"
 }
