@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/daybreak-for-frontline-defenders",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
@@ -1701,5 +1701,8 @@
     "OpenAI Blog_https://openai.com/index/daybreak-for-frontline-defenders": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/": "read",
-    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/": "read"
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti/": "read"
 }
