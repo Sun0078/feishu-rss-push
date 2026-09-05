@@ -7,7 +7,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/gpt-6-astra",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1711,5 +1711,6 @@
     "NASA航天资讯_https://www.nasa.gov/general/nasa-hosts-virtual-artemis-webinar-for-blind-low-vision-community/": "read",
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/": "read",
+    "OpenAI Blog_https://openai.com/index/gpt-6-astra": "read"
 }
