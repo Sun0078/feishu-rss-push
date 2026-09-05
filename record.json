@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -1712,5 +1712,6 @@
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-ames-fire-department-aircraft-firefighting-training/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/": "read",
-    "OpenAI Blog_https://openai.com/index/gpt-6-astra": "read"
+    "OpenAI Blog_https://openai.com/index/gpt-6-astra": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/": "read"
 }
