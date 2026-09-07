@@ -1,14 +1,14 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/an-alien-mind",
-    "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
@@ -1715,5 +1715,9 @@
     "OpenAI Blog_https://openai.com/index/gpt-6-astra": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-5-chasing-the-moons-shadow/": "read",
     "OpenAI Blog_https://openai.com/index/research-acceleration-view-inside-openai": "read",
-    "OpenAI Blog_https://openai.com/index/an-alien-mind": "read"
+    "OpenAI Blog_https://openai.com/index/an-alien-mind": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/": "read",
+    "OpenAI Blog_https://openai.com/index/supporting-independent-journalism-in-ukraine": "read",
+    "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/": "read"
 }
