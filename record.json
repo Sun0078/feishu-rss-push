@@ -3,7 +3,7 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
@@ -1741,5 +1741,6 @@
     "OpenAI Blog_https://openai.com/index/teen-development-research-grants": "read",
     "OpenAI Blog_https://openai.com/index/navier-stokes-solution": "read",
     "OpenAI Blog_https://openai.com/index/introducing-chatgpt-images-2-5": "read",
-    "OpenAI Blog_https://openai.com/index/codex-quantum-computing-experiments": "read"
+    "OpenAI Blog_https://openai.com/index/codex-quantum-computing-experiments": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/": "read"
 }
