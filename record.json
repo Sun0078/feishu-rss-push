@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/the-work-now-within-reach",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/codex-quantum-computing-experiments",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1732,5 +1732,14 @@
     "NASA航天资讯_https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/": "read",
     "OpenAI Blog_https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": "read",
-    "OpenAI Blog_https://openai.com/index/the-work-now-within-reach": "read"
+    "OpenAI Blog_https://openai.com/index/the-work-now-within-reach": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/": "read",
+    "NASA航天资讯_https://www.nasa.gov/general/from-the-corps-to-the-cosmos-featuring-jaden-caradine/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/": "read",
+    "OpenAI Blog_https://openai.com/index/1password": "read",
+    "OpenAI Blog_https://openai.com/index/teen-development-research-grants": "read",
+    "OpenAI Blog_https://openai.com/index/navier-stokes-solution": "read",
+    "OpenAI Blog_https://openai.com/index/introducing-chatgpt-images-2-5": "read",
+    "OpenAI Blog_https://openai.com/index/codex-quantum-computing-experiments": "read"
 }
