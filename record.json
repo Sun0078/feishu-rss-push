@@ -1,11 +1,11 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/startup-investment-qa-ai-hr-fintech-jacobsohn-norwest/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/codex-quantum-computing-experiments",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/",
@@ -1746,5 +1746,8 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again/": "read",
     "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/startup-investment-qa-ai-hr-fintech-jacobsohn-norwest/": "read"
 }
