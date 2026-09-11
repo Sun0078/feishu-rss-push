@@ -1,11 +1,11 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/measure-innovation-ecosystem-south-korea-onetti-mind-the-bridge/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
@@ -1788,5 +1788,11 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm": "read",
+    "NASA航天资讯_https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/": "read"
 }
