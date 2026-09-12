@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1794,5 +1794,14 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/": "read",
+    "NASA航天资讯_https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasas-chandra-spots-galactic-gem/": "read",
+    "NASA航天资讯_https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/": "read",
+    "OpenAI Blog_https://openai.com/index/cognition-devin-testing-with-astra": "read",
+    "OpenAI Blog_https://openai.com/index/scaling-storage-one-billion-users-part-one": "read",
+    "OpenAI Blog_https://openai.com/index/perplexity-improving-accuracy-with-astra": "read"
 }
