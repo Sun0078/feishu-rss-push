@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -1803,5 +1803,6 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/": "read",
     "OpenAI Blog_https://openai.com/index/cognition-devin-testing-with-astra": "read",
     "OpenAI Blog_https://openai.com/index/scaling-storage-one-billion-users-part-one": "read",
-    "OpenAI Blog_https://openai.com/index/perplexity-improving-accuracy-with-astra": "read"
+    "OpenAI Blog_https://openai.com/index/perplexity-improving-accuracy-with-astra": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/": "read"
 }
