@@ -5,7 +5,7 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/startups/ai-creating-wealth-fast-honig-from-honig/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/fyxer",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
@@ -1842,5 +1842,6 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/jensen-huang-dreamforce/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/": "read"
 }
