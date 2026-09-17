@@ -1,13 +1,13 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1860,5 +1860,11 @@
     "OpenAI Blog_https://openai.com/index/reimagining-advertising-with-ai": "read",
     "OpenAI Blog_https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-energy-management-alliance/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm": "read",
+    "NASA航天资讯_https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/": "read",
+    "NASA航天资讯_https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/": "read",
+    "OpenAI Blog_https://openai.com/index/model-misalignment-reporting-framework": "read",
+    "OpenAI Blog_https://openai.com/index/how-to-connect-ai-usage-to-business-value": "read"
 }
