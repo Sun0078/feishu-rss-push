@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1870,5 +1870,9 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/": "read"
 }
