@@ -1,11 +1,11 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/cooley-gopublic",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
@@ -1880,5 +1880,9 @@
     "OpenAI Blog_https://openai.com/index/astra-for-law": "read",
     "OpenAI Blog_https://openai.com/index/cooley-gopublic": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/": "read",
+    "NASA航天资讯_https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/": "read"
 }
