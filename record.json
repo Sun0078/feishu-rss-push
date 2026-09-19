@@ -1,13 +1,13 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/cooley-gopublic",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/hex-gpt-6-astra",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1884,5 +1884,13 @@
     "NASA航天资讯_https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/cosi-telescope-comes-together/": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/": "read",
+    "OpenAI Blog_https://openai.com/index/hex-gpt-6-astra": "read"
 }
