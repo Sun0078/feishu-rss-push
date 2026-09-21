@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -1895,5 +1895,6 @@
     "OpenAI Blog_https://openai.com/index/hex-gpt-6-astra": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/": "read",
     "OpenAI Blog_https://openai.com/index/australian-youth-safety-blueprint": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/": "read"
 }
