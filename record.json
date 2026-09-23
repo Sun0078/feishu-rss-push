@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-day-singapore/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -1937,5 +1937,9 @@
     "OpenAI Blog_https://openai.com/index/priorities-principles-third-party-assessments": "read",
     "OpenAI Blog_https://openai.com/index/parallel-cuts-time-and-cost-with-astra": "read",
     "OpenAI Blog_https://openai.com/index/introducing-gpt-6-sol-and-luna": "read",
-    "OpenAI Blog_https://openai.com/index/better-prompt-caching-for-gpt-6": "read"
+    "OpenAI Blog_https://openai.com/index/better-prompt-caching-for-gpt-6": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-day-singapore/": "read"
 }
