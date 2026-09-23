@@ -1,13 +1,13 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1929,5 +1929,13 @@
     "MIT科技评论_https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/": "read",
+    "NASA航天资讯_https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat/": "read",
+    "NASA航天资讯_https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/": "read",
+    "OpenAI Blog_https://openai.com/index/priorities-principles-third-party-assessments": "read",
+    "OpenAI Blog_https://openai.com/index/parallel-cuts-time-and-cost-with-astra": "read",
+    "OpenAI Blog_https://openai.com/index/introducing-gpt-6-sol-and-luna": "read",
+    "OpenAI Blog_https://openai.com/index/better-prompt-caching-for-gpt-6": "read"
 }
