@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/megaround-seriesa-ai-chips-robotics-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -1968,5 +1968,8 @@
     "OpenAI Blog_https://openai.com/index/invideo-builds-with-gpt-6-astra": "read",
     "OpenAI Blog_https://openai.com/index/harvey-from-context-to-confidence-with-astra": "read",
     "OpenAI Blog_https://openai.com/index/sam-altman-un-security-council-remarks": "read",
-    "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/": "read"
+    "Google Research Blog_https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/": "read",
+    "OpenAI Blog_https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": "read"
 }
