@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/layoffs/2026-layoff-numbers-rise-ai-shift-orcl-meta-amzn/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
@@ -1989,5 +1989,8 @@
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/": "read",
     "NASA航天资讯_https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/layoffs/2026-layoff-numbers-rise-ai-shift-orcl-meta-amzn/": "read"
 }
