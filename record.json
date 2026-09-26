@@ -1,11 +1,11 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/layoffs/2026-layoff-numbers-rise-ai-shift-orcl-meta-amzn/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/proaction",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
@@ -1996,5 +1996,12 @@
     "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/": "read",
     "NASA航天资讯_https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/": "read",
-    "OpenAI Blog_https://openai.com/index/proaction": "read"
+    "OpenAI Blog_https://openai.com/index/proaction": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm": "read",
+    "NASA航天资讯_https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/": "read",
+    "NASA航天资讯_https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/": "read",
+    "NASA航天资讯_https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/": "read",
+    "NASA航天资讯_https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/": "read"
 }
