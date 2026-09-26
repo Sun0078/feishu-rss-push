@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2003,5 +2003,6 @@
     "NASA航天资讯_https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/": "read",
     "NASA航天资讯_https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/": "read",
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/": "read"
 }
