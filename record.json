@@ -1,11 +1,11 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/learning-resources/research-program-for-students/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/early-groq-ai-investor-qa-venkatachalam-axiom/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
@@ -2033,5 +2033,12 @@
     "OpenAI Blog_https://openai.com/index/how-we-will-do-better-for-australia": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/": "read",
-    "OpenAI Blog_https://openai.com/index/towards-safety-cases-for-frontier-ai-training": "read"
+    "OpenAI Blog_https://openai.com/index/towards-safety-cases-for-frontier-ai-training": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/": "read",
+    "NASA航天资讯_https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/": "read",
+    "NASA航天资讯_https://www.nasa.gov/learning-resources/research-program-for-students/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/": "read"
 }
