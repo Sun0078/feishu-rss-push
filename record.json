@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2051,5 +2051,7 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/public/oura-pauses-ipo-anthropics-ai-openai/": "read",
     "OpenAI Blog_https://openai.com/index/introducing-dots": "read",
     "OpenAI Blog_https://openai.com/index/devday-2026-recap": "read",
-    "OpenAI Blog_https://openai.com/index/introducing-gpt-6-1-sol": "read"
+    "OpenAI Blog_https://openai.com/index/introducing-gpt-6-1-sol": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/": "read"
 }
