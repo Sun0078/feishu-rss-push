@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/solar-system/10-things-movie-night/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2088,5 +2088,7 @@
     "OpenAI Blog_https://openai.com/index/the-den-family-social": "read",
     "OpenAI Blog_https://openai.com/index/the-eternal-complement": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/": "read"
 }
