@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2113,5 +2113,7 @@
     "OpenAI Blog_https://openai.com/index/chatham-financial": "read",
     "OpenAI Blog_https://openai.com/index/practical-guide-building-gpt-6": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/": "read",
+    "NASA航天资讯_https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/": "read"
 }
