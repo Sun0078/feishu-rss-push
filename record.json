@@ -1,13 +1,13 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/eu-text-provenance",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/wayfair",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2128,5 +2128,12 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/": "read",
     "OpenAI Blog_https://openai.com/index/new-chatgpt-ads-format-and-measurement": "read",
     "OpenAI Blog_https://openai.com/index/eu-text-provenance": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-breast-cancer-startups/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-breast-cancer-startups/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/": "read",
+    "OpenAI Blog_https://openai.com/index/wayfair": "read"
 }
