@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/jump-trading",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/teens-learn-and-plan",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2164,5 +2164,11 @@
     "OpenAI Blog_https://openai.com/index/jump-trading": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/ai-startup-investors-raising-bar-ipo-farid-leo/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/": "read",
+    "OpenAI Blog_https://openai.com/index/teens-learn-and-plan": "read"
 }
