@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2179,5 +2179,7 @@
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/": "read",
     "OpenAI Blog_https://openai.com/index/gpt-6-for-everyone": "read",
     "OpenAI Blog_https://openai.com/index/radisson": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/": "read"
 }
