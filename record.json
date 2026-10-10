@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2221,5 +2221,6 @@
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/": "read",
     "OpenAI Blog_https://openai.com/index/asana-browser-agent": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/": "read"
 }
