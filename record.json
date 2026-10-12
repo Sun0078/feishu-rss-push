@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/asana-browser-agent",
-    "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
+    "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2225,5 +2225,12 @@
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/": "read",
+    "Google Research Blog_https://blog.google/innovation-and-ai/technology/health/ai-health-research/": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/": "read"
 }
