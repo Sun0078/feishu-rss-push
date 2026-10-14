@@ -3,11 +3,11 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/fintech/building-next-generation-super-apps-okike-645-ventures/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/uk-ecosystem-deployment/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2258,5 +2258,11 @@
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/uk-ecosystem-deployment/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/uk-ecosystem-deployment/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/september-2026-new-unicorns-semiconductors-ai-fintech-space/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/": "read",
+    "OpenAI Blog_https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": "read"
 }
