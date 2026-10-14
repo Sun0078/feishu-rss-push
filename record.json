@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/fintech/building-next-generation-super-apps-okike-645-ventures/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/asana-browser-agent",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/higgsfield-longer-videos-voice",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/health/ai-health-research/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2246,5 +2246,12 @@
     "NASA航天资讯_https://science.nasa.gov/photojournal/voyager-technologies-griffin-1-completes-environmental-testing-at-nasa-jpl/": "read",
     "NASA航天资讯_https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/nasas-record-setting-perseverance-rover-team/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/real-estate-proptech-ai-startups-qa-wallace-fifth-wall/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/fintech/building-next-generation-super-apps-okike-645-ventures/": "read",
+    "OpenAI Blog_https://openai.com/index/higgsfield-longer-videos-voice": "read"
 }
