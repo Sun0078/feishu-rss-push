@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/block-ai-powered-security",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2276,5 +2276,8 @@
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs": "read",
     "NASA航天资讯_https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/": "read",
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/": "read",
-    "OpenAI Blog_https://openai.com/index/block-ai-powered-security": "read"
+    "OpenAI Blog_https://openai.com/index/block-ai-powered-security": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nordics-technology-ecosystem/": "read"
 }
