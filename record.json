@@ -1,15 +1,15 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/sullivan-cromwell",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade",
+    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2313,5 +2313,10 @@
     "MIT科技评论_https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm": "read",
+    "NASA航天资讯_https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs": "read"
 }
