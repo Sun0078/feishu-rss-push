@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/benefit-street-partners",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2326,5 +2326,6 @@
     "OpenAI Blog_https://openai.com/index/stack-overflow-chatgpt-plugin": "read",
     "OpenAI Blog_https://openai.com/index/itau-generative-ai": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/": "read",
-    "OpenAI Blog_https://openai.com/index/benefit-street-partners": "read"
+    "OpenAI Blog_https://openai.com/index/benefit-street-partners": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/": "read"
 }
