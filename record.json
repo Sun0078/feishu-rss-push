@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/low-resource-programming-languages",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
@@ -2352,5 +2352,10 @@
     "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/": "read"
 }
