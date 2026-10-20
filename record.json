@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/low-resource-programming-languages",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2348,5 +2348,9 @@
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre": "read",
     "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/": "read",
     "OpenAI Blog_https://openai.com/index/low-resource-programming-languages": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/": "read"
 }
