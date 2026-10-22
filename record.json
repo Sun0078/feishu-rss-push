@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honig/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/cloudflare-cyber",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
@@ -2433,5 +2433,11 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/european-retail-open-models-robotics/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/dsx-power/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/startups/building-brands-ai-agents-human-customers-coulthard-jacquard/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/": "read"
 }
