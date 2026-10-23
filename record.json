@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/forward-deployed-engineering-means",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/decisions-api",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2446,5 +2446,10 @@
     "OpenAI Blog_https://openai.com/index/uber-chatgpt-work-rollout": "read",
     "OpenAI Blog_https://openai.com/index/forward-deployed-engineering-means": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/minerva-platform-infrastructure/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/minerva-platform-infrastructure/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/spirals-edge/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/": "read",
+    "OpenAI Blog_https://openai.com/index/decisions-api": "read"
 }
