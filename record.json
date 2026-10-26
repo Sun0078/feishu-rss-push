@@ -1,11 +1,11 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/startups/personal-exposure-securities-fraud-joonko-jeziorski-founder-shield/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/securing-our-frontier-model-training-environment",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
@@ -2471,5 +2471,8 @@
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/startups/personal-exposure-securities-fraud-joonko-jeziorski-founder-shield/": "read"
 }
