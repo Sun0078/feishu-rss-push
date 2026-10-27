@@ -3,9 +3,9 @@
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
     "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/greptile-code-review-codex-astra",
     "https://blog.google/technology/research/rss/": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
@@ -2499,5 +2499,10 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/": "read",
     "NASA航天资讯_https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/": "read"
 }
