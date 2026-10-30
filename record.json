@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/updated-model-spec",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/credit-saison",
     "https://blog.google/technology/research/rss/": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2560,5 +2560,11 @@
     "OpenAI Blog_https://openai.com/index/how-we-detect-frontier-model-misalignment": "read",
     "OpenAI Blog_https://openai.com/index/updated-model-spec": "read",
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/": "read",
+    "NASA航天资讯_https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/": "read",
+    "OpenAI Blog_https://openai.com/index/credit-saison": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/": "read"
 }
