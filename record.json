@@ -1,13 +1,13 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/updated-model-spec",
     "https://blog.google/technology/research/rss/": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2548,5 +2548,15 @@
     "MIT科技评论_https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm": "read",
+    "NASA航天资讯_https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/": "read",
+    "NASA航天资讯_https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/": "read",
+    "NASA航天资讯_https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/": "read",
+    "OpenAI Blog_https://openai.com/index/ropes-gray-ai-diligence": "read",
+    "OpenAI Blog_https://openai.com/index/how-we-detect-frontier-model-misalignment": "read",
+    "OpenAI Blog_https://openai.com/index/updated-model-spec": "read"
 }
