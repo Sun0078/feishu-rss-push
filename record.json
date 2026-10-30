@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2558,5 +2558,7 @@
     "NASA航天资讯_https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/": "read",
     "OpenAI Blog_https://openai.com/index/ropes-gray-ai-diligence": "read",
     "OpenAI Blog_https://openai.com/index/how-we-detect-frontier-model-misalignment": "read",
-    "OpenAI Blog_https://openai.com/index/updated-model-spec": "read"
+    "OpenAI Blog_https://openai.com/index/updated-model-spec": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/": "read"
 }
