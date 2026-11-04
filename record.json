@@ -7,7 +7,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/cisco-cyber",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2611,5 +2611,8 @@
     "MIT科技评论_https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/": "read",
     "OpenAI Blog_https://openai.com/index/accelerating-engineering-for-the-physical-world": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-semiconductor-fabs/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-semiconductor-fabs/": "read",
+    "OpenAI Blog_https://openai.com/ads/customers/evernote": "read",
+    "OpenAI Blog_https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": "read",
+    "OpenAI Blog_https://openai.com/index/cisco-cyber": "read"
 }
