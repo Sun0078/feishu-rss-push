@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2614,5 +2614,7 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-semiconductor-fabs/": "read",
     "OpenAI Blog_https://openai.com/ads/customers/evernote": "read",
     "OpenAI Blog_https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": "read",
-    "OpenAI Blog_https://openai.com/index/cisco-cyber": "read"
+    "OpenAI Blog_https://openai.com/index/cisco-cyber": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/": "read"
 }
