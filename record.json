@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/openai-to-acquire-pierre",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/a-thousand-fewer-paths-to-root",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2627,5 +2627,12 @@
     "MIT科技评论_https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/": "read",
     "OpenAI Blog_https://openai.com/index/daybreak-red-aws-govcloud": "read",
-    "OpenAI Blog_https://openai.com/index/openai-to-acquire-pierre": "read"
+    "OpenAI Blog_https://openai.com/index/openai-to-acquire-pierre": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/": "read",
+    "OpenAI Blog_https://openai.com/index/devrev-enterprise-self-service": "read",
+    "OpenAI Blog_https://openai.com/index/introducing-images-2-6": "read",
+    "OpenAI Blog_https://openai.com/index/a-thousand-fewer-paths-to-root": "read"
 }
