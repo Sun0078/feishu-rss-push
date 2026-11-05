@@ -1,9 +1,9 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
@@ -2634,5 +2634,8 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/": "read",
     "OpenAI Blog_https://openai.com/index/devrev-enterprise-self-service": "read",
     "OpenAI Blog_https://openai.com/index/introducing-images-2-6": "read",
-    "OpenAI Blog_https://openai.com/index/a-thousand-fewer-paths-to-root": "read"
+    "OpenAI Blog_https://openai.com/index/a-thousand-fewer-paths-to-root": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/": "read"
 }
