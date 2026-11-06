@@ -7,9 +7,9 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/australian-universities-ai-native-graduates",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2649,5 +2649,12 @@
     "OpenAI Blog_https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/memory-full-stack-codesign/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/": "read",
+    "OpenAI Blog_https://openai.com/index/franklin-templeton": "read",
+    "OpenAI Blog_https://openai.com/ads/customers/flipsnack": "read",
+    "OpenAI Blog_https://openai.com/index/merge-builds-with-openai": "read",
+    "OpenAI Blog_https://openai.com/index/introducing-gpt-6-cyber": "read",
+    "OpenAI Blog_https://openai.com/index/cultfit-builds-with-codex": "read",
+    "OpenAI Blog_https://openai.com/index/australian-universities-ai-native-graduates": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/": "read"
 }
