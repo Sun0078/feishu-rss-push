@@ -1,9 +1,9 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/nurx-journey-clinical-founders-raise-mental-health-startup-siggy/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
@@ -2656,5 +2656,8 @@
     "OpenAI Blog_https://openai.com/index/introducing-gpt-6-cyber": "read",
     "OpenAI Blog_https://openai.com/index/cultfit-builds-with-codex": "read",
     "OpenAI Blog_https://openai.com/index/australian-universities-ai-native-graduates": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/": "read"
 }
