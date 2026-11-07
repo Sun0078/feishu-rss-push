@@ -5,9 +5,9 @@
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/challenging-monopolies-semiconductors-anand-tensordyn/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/partnering-with-hacktron",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2665,5 +2665,8 @@
     "MIT科技评论_https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/october-2026-lead-startup-investors/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/ai/challenging-monopolies-semiconductors-anand-tensordyn/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/": "read",
+    "OpenAI Blog_https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": "read",
+    "OpenAI Blog_https://openai.com/index/partnering-with-hacktron": "read"
 }
