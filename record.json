@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2672,5 +2672,6 @@
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/": "read",
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/": "read",
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/": "read"
 }
