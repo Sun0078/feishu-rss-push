@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/partnering-with-hacktron",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2675,5 +2675,13 @@
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/": "read",
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/a-message-to-our-company": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/a-message-to-our-company": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/korea-secure-agentic-ai/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/korean-startup-investments-msit/": "read"
 }
