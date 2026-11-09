@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/partnering-with-hacktron",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2673,5 +2673,7 @@
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/": "read",
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/": "read",
-    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/": "read"
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/a-message-to-our-company": "read"
 }
