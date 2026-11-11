@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/chatgpt-plus-for-veterans",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2726,5 +2726,11 @@
     "OpenAI Blog_https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board": "read",
-    "OpenAI Blog_https://openai.com/index/gilbert-tobin-sam-nickless": "read"
+    "OpenAI Blog_https://openai.com/index/gilbert-tobin-sam-nickless": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/": "read",
+    "OpenAI Blog_https://openai.com/index/cogent-security": "read",
+    "OpenAI Blog_https://openai.com/index/singapore-airlines-travel-work": "read",
+    "OpenAI Blog_https://openai.com/index/chatgpt-plus-for-veterans": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-recycling-startups/": "read"
 }
