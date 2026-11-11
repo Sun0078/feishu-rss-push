@@ -7,7 +7,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
     "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2725,5 +2725,6 @@
     "OpenAI Blog_https://openai.com/index/introducing-businesses-chatgpt": "read",
     "OpenAI Blog_https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board": "read",
+    "OpenAI Blog_https://openai.com/index/gilbert-tobin-sam-nickless": "read"
 }
