@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/jiostar-vijay-seshadri",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/technology/research/partnering-singapore-advance-scientific-discovery/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2735,5 +2735,7 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-recycling-startups/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/": "read",
-    "Crunchbase News-全球融资_https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/": "read"
+    "Crunchbase News-全球融资_https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/": "read",
+    "OpenAI Blog_https://openai.com/index/jiostar-vijay-seshadri": "read"
 }
