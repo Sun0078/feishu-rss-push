@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "https://openai.com/blog/rss.xml": "https://openai.com/business/customer-stories/amplitude",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2754,5 +2754,10 @@
     "Google Research Blog_https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/": "read",
     "Google Research Blog_https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/": "read",
+    "NASA航天资讯_https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/": "read",
+    "OpenAI Blog_https://openai.com/business/customer-stories/gondola": "read",
+    "OpenAI Blog_https://openai.com/business/customer-stories/amplitude": "read"
 }
