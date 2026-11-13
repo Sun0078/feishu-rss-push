@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/agtech-foodtech/protein-startup-snacks-drinks-sample-taste/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/business/customer-stories/amplitude",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/introducing-chatgpt-wallet",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2763,5 +2763,11 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/outbursts-from-a-massive-star/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/agtech-foodtech/protein-startup-snacks-drinks-sample-taste/": "read",
+    "OpenAI Blog_https://openai.com/index/introducing-chatgpt-wallet": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/": "read"
 }
