@@ -1,9 +1,9 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
@@ -2759,5 +2759,9 @@
     "NASA航天资讯_https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/": "read",
     "OpenAI Blog_https://openai.com/business/customer-stories/gondola": "read",
-    "OpenAI Blog_https://openai.com/business/customer-stories/amplitude": "read"
+    "OpenAI Blog_https://openai.com/business/customer-stories/amplitude": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/": "read"
 }
