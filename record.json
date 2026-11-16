@@ -7,9 +7,9 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/business/customer-stories/shield",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/step-toward-defining-the-standard-model",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2773,5 +2773,8 @@
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/": "read",
-    "OpenAI Blog_https://openai.com/business/customer-stories/shield": "read"
+    "OpenAI Blog_https://openai.com/business/customer-stories/shield": "read",
+    "OpenAI Blog_https://openai.com/index/our-new-blog-for-science": "read",
+    "OpenAI Blog_https://openai.com/index/step-toward-defining-the-standard-model": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/": "read"
 }
