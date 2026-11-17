@@ -1,15 +1,15 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "https://openai.com/blog/rss.xml": "https://openai.com/business/customer-stories/holiday-extras-dots",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2805,5 +2805,10 @@
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/lambda-photonics/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/": "read",
+    "NASA航天资讯_https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/": "read",
+    "OpenAI Blog_https://openai.com/business/customer-stories/holiday-extras-dots": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/": "read"
 }
