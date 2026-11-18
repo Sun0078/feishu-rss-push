@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/startups/arr-measure-ai-venture-growth-capital-zayani-rtp/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
     "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2840,5 +2840,11 @@
     "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/ian-buck-sc26/": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/startups/arr-measure-ai-venture-growth-capital-zayani-rtp/": "read",
+    "OpenAI Blog_https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership": "read"
 }
