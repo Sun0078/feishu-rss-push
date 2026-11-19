@@ -1,13 +1,13 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/inside-the-codex-sandbox",
+    "https://openai.com/blog/rss.xml": "https://openai.com/index/research-acceleration-jagged-frontier",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
     "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2861,5 +2861,9 @@
     "OpenAI Blog_https://openai.com/index/the-silent-consensus": "read",
     "OpenAI Blog_https://openai.com/index/managing-frontier-ai-risk": "read",
     "OpenAI Blog_https://openai.com/index/inside-the-codex-sandbox": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/": "read",
+    "NASA航天资讯_https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/": "read",
+    "OpenAI Blog_https://openai.com/business/customer-stories/sumitomo-life": "read",
+    "OpenAI Blog_https://openai.com/index/research-acceleration-jagged-frontier": "read"
 }
