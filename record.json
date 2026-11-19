@@ -1,11 +1,11 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/startups/blue-economy-technology-defense-energy-onetti-mind-the-bridge/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/research-acceleration-jagged-frontier",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/",
@@ -2865,5 +2865,12 @@
     "NASA航天资讯_https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/public/ipo/anthropic-prices-ipo-ant-above-range/": "read",
     "OpenAI Blog_https://openai.com/business/customer-stories/sumitomo-life": "read",
-    "OpenAI Blog_https://openai.com/index/research-acceleration-jagged-frontier": "read"
+    "OpenAI Blog_https://openai.com/index/research-acceleration-jagged-frontier": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/saas/public-market-value-regulations-ai-anton-oxx/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/data-recruiting-job-hunting-hr-ai-startups-mercor/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/startups/blue-economy-technology-defense-energy-onetti-mind-the-bridge/": "read"
 }
