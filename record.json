@@ -7,9 +7,9 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
     "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/startups/blue-economy-technology-defense-energy-onetti-mind-the-bridge/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "https://openai.com/blog/rss.xml": "https://openai.com/business/learn/deploying-daybreak-red",
     "https://blog.google/technology/research/rss/": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2883,5 +2883,10 @@
     "OpenAI Blog_https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": "read",
     "Google Research Blog_https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/": "read",
     "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/": "read",
+    "OpenAI Blog_https://openai.com/business/learn/daybreak-blue-onboarding-demo": "read",
+    "OpenAI Blog_https://openai.com/business/learn/codex-security-plugin-demo": "read",
+    "OpenAI Blog_https://openai.com/business/learn/pr-scans-demo": "read",
+    "OpenAI Blog_https://openai.com/business/learn/deploying-daybreak-red": "read",
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322": "read"
 }
