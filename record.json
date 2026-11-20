@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2888,5 +2888,7 @@
     "OpenAI Blog_https://openai.com/business/learn/codex-security-plugin-demo": "read",
     "OpenAI Blog_https://openai.com/business/learn/pr-scans-demo": "read",
     "OpenAI Blog_https://openai.com/business/learn/deploying-daybreak-red": "read",
-    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322": "read"
+    "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/": "read"
 }
