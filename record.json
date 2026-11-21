@@ -1,13 +1,13 @@
 {
-    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+    "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "https://openai.com/blog/rss.xml": "https://openai.com/index/combatting-adversarial-distillation",
+    "https://openai.com/blog/rss.xml": "https://openai.com/business/customer-stories/hebbia",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
     "https://nvidianews.nvidia.com/releases.xml": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
@@ -2900,5 +2900,10 @@
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech/": "read",
     "OpenAI Blog_https://openai.com/index/introducing-medchembench": "read",
     "OpenAI Blog_https://openai.com/index/combatting-adversarial-distillation": "read",
-    "Google Research Blog_https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/": "read"
+    "Google Research Blog_https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/": "read",
+    "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm": "read",
+    "NASA航天资讯_https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/": "read",
+    "NASA航天资讯_https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/": "read",
+    "OpenAI Blog_https://openai.com/business/customer-stories/hebbia": "read"
 }
