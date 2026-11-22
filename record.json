@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2906,5 +2906,6 @@
     "NASA航天资讯_https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/": "read",
     "Crunchbase News-全球融资_https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/": "read",
     "OpenAI Blog_https://openai.com/business/customer-stories/hebbia": "read",
-    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/": "read"
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/": "read"
 }
