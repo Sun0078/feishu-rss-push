@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2925,5 +2925,7 @@
     "OpenAI Blog_https://openai.com/business/learn/connected-intelligence-for-in-house-legal": "read",
     "OpenAI Blog_https://openai.com/index/introducing-shirudo": "read",
     "NVIDIA Newsroom_https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director": "read",
-    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/": "read"
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/": "read"
 }
