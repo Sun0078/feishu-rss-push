@@ -1,11 +1,11 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
+    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
-    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/workplace/ai-bias-in-hr-hiring-job-applications/",
+    "https://news.crunchbase.com/feed/": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
@@ -2946,5 +2946,11 @@
     "NASA航天资讯_https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/": "read",
     "NASA航天资讯_https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/": "read",
     "OpenAI Blog_https://openai.com/business/customer-stories/clay-plugins-openai": "read",
-    "OpenAI Blog_https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": "read"
+    "OpenAI Blog_https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": "read",
+    "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/": "read",
+    "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/": "read",
+    "MIT科技评论_https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/": "read",
+    "Crunchbase News-全球融资_https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/": "read"
 }
