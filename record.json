@@ -9,7 +9,7 @@
     "https://venturebeat.com/feed/": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
     "https://openai.com/blog/rss.xml": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
     "https://blog.google/technology/research/rss/": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
-    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+    "https://nvidianews.nvidia.com/releases.xml": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm": "read",
     "美联储资讯(Fed)_https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm": "read",
@@ -2964,5 +2964,6 @@
     "NASA航天资讯_https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/": "read",
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/": "read",
+    "NVIDIA Newsroom_https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/": "read"
 }
