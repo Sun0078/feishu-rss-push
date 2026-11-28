@@ -1,7 +1,7 @@
 {
     "https://www.federalreserve.gov/feeds/press_all.xml": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
     "https://36kr.com/feed": "https://36kr.com/p/3827585618154118?f=rss",
-    "https://www.nasa.gov/news-release/feed/": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+    "https://www.nasa.gov/news-release/feed/": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
     "https://techcrunch.com/tag/hard-tech/feed/": "https://techcrunch.com/2024/02/16/the-hard-tech-renaissance-accelerates-as-yc-spotlights-space-manufacturing-and-defense/",
     "https://www.technologyreview.com/feed/": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
     "https://www.coindesk.com/arc/outboundfeeds/rss/": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
@@ -2970,5 +2970,7 @@
     "NASA航天资讯_https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/": "read",
     "MIT科技评论_https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/": "read",
-    "MIT科技评论_https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/": "read"
+    "MIT科技评论_https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/": "read",
+    "NASA航天资讯_https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/": "read",
+    "NASA航天资讯_https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/": "read"
 }
